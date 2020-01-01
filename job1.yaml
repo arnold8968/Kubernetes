@@ -8,7 +8,7 @@ spec:
    - variational_autoencoder.py
    - /root/job1.csv
    - job1
-   commandL
+   command:
    - python
    image: wzheng33/vae:latest
    name: lenet-test-epoch

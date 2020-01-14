@@ -1,0 +1,189 @@
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+since |CS|>0, sort CS
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:0.0
+Implement job:job7-torch-lenet to node:worker-2.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+since |CS|>0, sort CS
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:1.0
+Implement job:job12-torch-lenet to node:worker-1.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+since |CS|>0, sort CS
+node:master.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:1.0
+Implement job:job6-tf-cnn to node:master.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+since |CS|>0, sort CS
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1.0
+Implement job:job10-torch-lenet to node:worker-3.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+since |CS|>0, sort CS
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:1.0
+Implement job:job4-torch-vae to node:worker-2.plz.shield-pg0.utah.cloudlab.us
+podjob6-tf-cnn terminated because of Completed
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:0.0	jobs number:0
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:620.0	jobs number:2
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+since |CS|>0, sort CS
+node:master.plz.shield-pg0.utah.cloudlab.us	C:0.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:620.0
+Implement job:job11-tf-drnn to node:master.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:692.0	jobs number:2
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+since |CS|>0, sort CS
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:692.0
+Implement job:job3-torch-vae to node:worker-1.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:86.0	jobs number:2
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:692.0	jobs number:2
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+since |CS|>0, sort CS
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:86.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:692.0
+Implement job:job8-tf-birnn to node:master.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1540.0	jobs number:2
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:180.0	jobs number:2
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:692.0	jobs number:2
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1.0	jobs number:1
+since |CS|>0, sort CS
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:1.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:180.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:692.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1540.0
+Implement job:job2-tf-drnn to node:worker-3.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1816.0	jobs number:2
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:430.0	jobs number:2
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:656.0	jobs number:2
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:312.0	jobs number:2
+since |CS|>0, sort CS
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:312.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:430.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:656.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1816.0
+Implement job:job1-tf-drnn to node:worker-3.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1848.0	jobs number:2
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:640.0	jobs number:2
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:560.0	jobs number:2
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:5508.0	jobs number:3
+since |CS|>0, sort CS
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:560.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:640.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1848.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:5508.0
+Implement job:job13-tf-cnn to node:worker-2.plz.shield-pg0.utah.cloudlab.us
+There are 4 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1784.0	jobs number:2
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:640.0	jobs number:2
+In node:worker-2.plz.shield-pg0.utah.cloudlab.us	status:ready	C:2706.0	jobs number:3
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:4818.0	jobs number:3
+since |CS|>0, sort CS
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:640.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1784.0
+node:worker-2.plz.shield-pg0.utah.cloudlab.us	C:2706.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:4818.0
+Implement job:job5-torch-vae to node:worker-1.plz.shield-pg0.utah.cloudlab.us
+There are 3 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:1500.0	jobs number:2
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:3993.0	jobs number:3
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:3504.0	jobs number:3
+since |CS|>0, sort CS
+node:master.plz.shield-pg0.utah.cloudlab.us	C:1500.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:3504.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:3993.0
+Implement job:job15-torch-vae to node:master.plz.shield-pg0.utah.cloudlab.us
+There are 3 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:13875.0	jobs number:3
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:3108.0	jobs number:3
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:3483.0	jobs number:3
+since |CS|>0, sort CS
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:3108.0
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:3483.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:13875.0
+Implement job:job14-torch-vae to node:worker-1.plz.shield-pg0.utah.cloudlab.us
+There are 3 nodes available
+Algorithm_2 running
+In node:master.plz.shield-pg0.utah.cloudlab.us	status:ready	C:10320.0	jobs number:3
+In node:worker-1.plz.shield-pg0.utah.cloudlab.us	status:ready	C:4144.0	jobs number:4
+In node:worker-3.plz.shield-pg0.utah.cloudlab.us	status:ready	C:3633.0	jobs number:3
+since |CS|>0, sort CS
+node:worker-3.plz.shield-pg0.utah.cloudlab.us	C:3633.0
+node:worker-1.plz.shield-pg0.utah.cloudlab.us	C:4144.0
+node:master.plz.shield-pg0.utah.cloudlab.us	C:10320.0
+Implement job:job9-tf-birnn to node:worker-3.plz.shield-pg0.utah.cloudlab.us
+podjob13-tf-cnn terminated because of Completed
+podjob10-torch-lenet terminated because of Completed
+podjob4-torch-vae terminated because of Completed
+podjob7-torch-lenet terminated because of Completed
+podjob2-tf-drnn terminated because of Completed
+podjob1-tf-drnn terminated because of Completed
+podjob15-torch-vae terminated because of Completed
+podjob11-tf-drnn terminated because of Completed
+podjob3-torch-vae terminated because of Completed
+podjob9-tf-birnn terminated because of Completed
+podjob5-torch-vae terminated because of Completed
+podjob8-tf-birnn terminated because of Completed
+podjob14-torch-vae terminated because of Completed
+podjob12-torch-lenet terminated because of Completed

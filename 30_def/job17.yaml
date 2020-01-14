@@ -1,0 +1,18 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: job17-tf-cnn
+spec:
+  restartPolicy: Never
+  volumes:
+  - name: task-pv-storage
+    persistentVolumeClaim:
+      claimName: pvc1-nfs
+  containers:
+    - name: d-rnn
+      image: zsl3203/cnn_log
+      command: ["python"]
+      args: ["cnn_log.py","200","/root/cnn/job17-tf-cnn.csv","job17-tf-cnn"]
+      volumeMounts:
+      - mountPath: "/root/cnn"
+        name: task-pv-storage

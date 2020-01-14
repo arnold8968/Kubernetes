@@ -1,0 +1,20 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: Needtoplaced
+spec:
+  restartPolicy: Never
+  schedulerName: scheduler-need-to-be-replaced
+  volumes:
+  - name: task-pv-storage
+    persistentVolumeClaim:
+      claimName: pvc1-nfs
+  containers:
+    - name: lenet-test-epoch
+      image: fuyuqi1995/june-lenet
+      command: ["python"]
+      args: ["lenet.py","5","/root/torch/Needtoplaced.csv","Needtoplaced"]
+      volumeMounts:
+      - mountPath: "/root/torch"
+        name: task-pv-storage
+

@@ -1,0 +1,19 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: job30-torch-vae
+spec:
+  restartPolicy: Never
+  volumes:
+  - name: task-pv-storage
+    persistentVolumeClaim:
+      claimName: pvc1-nfs
+  containers:
+    - name: lenet-test-epoch
+      image: fuyuqi1995/june-vae
+      command: ["python"]
+      args: ["app.py","15","/root/torch/job30-torch-vae.csv","job30-torch-vae"]
+      volumeMounts:
+      - mountPath: "/root/torch"
+        name: task-pv-storage
+

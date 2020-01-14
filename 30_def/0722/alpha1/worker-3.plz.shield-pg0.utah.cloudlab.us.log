@@ -1,0 +1,5 @@
+job,time
+job10-torch-lenet,1563843034.46
+job2-tf-drnn,1563843106.87
+job1-tf-drnn,1563843127.97
+job9-tf-birnn,1563843300.92

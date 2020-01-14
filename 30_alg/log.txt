@@ -1,0 +1,2362 @@
+2019-07-02 15:35:32,280 - __main__ - INFO - delete all previous yamls
+2019-07-02 15:35:32,282 - __main__ - INFO - create a new scheduler
+2019-07-02 15:35:32,284 - __main__ - INFO - create a tf-rnn yaml named job1.yaml
+2019-07-02 15:35:32,284 - __main__ - INFO - add job1-tf-rnn,submitted on 348
+2019-07-02 15:35:32,290 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-02 15:35:32,291 - __main__ - INFO - add job2-torch-vae,submitted on 469
+2019-07-02 15:35:32,291 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-02 15:35:32,292 - __main__ - INFO - add job3-torch-vae,submitted on 101
+2019-07-02 15:35:32,292 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-02 15:35:32,292 - __main__ - INFO - add job4-tf-drnn,submitted on 455
+2019-07-02 15:35:32,298 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-02 15:35:32,299 - __main__ - INFO - add job5-tf-birnn,submitted on 120
+2019-07-02 15:35:32,299 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-02 15:35:32,299 - __main__ - INFO - add job6-tf-birnn,submitted on 6
+2019-07-02 15:35:32,300 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-02 15:35:32,300 - __main__ - INFO - add job7-tf-drnn,submitted on 123
+2019-07-02 15:35:32,300 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-02 15:35:32,301 - __main__ - INFO - add job8-torch-vae,submitted on 332
+2019-07-02 15:35:32,301 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-02 15:35:32,301 - __main__ - INFO - add job9-torch-lenet,submitted on 105
+2019-07-02 15:35:32,302 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-02 15:35:32,302 - __main__ - INFO - add job10-tf-drnn,submitted on 219
+2019-07-02 15:35:32,302 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-07-02 15:35:32,302 - __main__ - INFO - add job11-tf-birnn,submitted on 72
+2019-07-02 15:35:32,302 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-02 15:35:32,303 - __main__ - INFO - add job12-torch-vae,submitted on 154
+2019-07-02 15:35:32,303 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-02 15:35:32,303 - __main__ - INFO - add job13-tf-birnn,submitted on 377
+2019-07-02 15:35:32,303 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-02 15:35:32,304 - __main__ - INFO - add job14-tf-birnn,submitted on 35
+2019-07-02 15:35:32,304 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-02 15:35:32,304 - __main__ - INFO - add job15-tf-birnn,submitted on 249
+2019-07-02 15:35:32,304 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-02 15:35:32,305 - __main__ - INFO - add job16-tf-drnn,submitted on 46
+2019-07-02 15:35:32,305 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-02 15:35:32,305 - __main__ - INFO - add job17-tf-drnn,submitted on 186
+2019-07-02 15:35:32,305 - __main__ - INFO - create a torch-lenet yaml named job18.yaml
+2019-07-02 15:35:32,305 - __main__ - INFO - add job18-torch-lenet,submitted on 444
+2019-07-02 15:35:32,306 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-02 15:35:32,306 - __main__ - INFO - add job19-torch-vae,submitted on 271
+2019-07-02 15:35:32,306 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-02 15:35:32,306 - __main__ - INFO - add job20-tf-drnn,submitted on 79
+2019-07-02 15:35:32,307 - __main__ - INFO - create a torch-vae yaml named job21.yaml
+2019-07-02 15:35:32,307 - __main__ - INFO - add job21-torch-vae,submitted on 184
+2019-07-02 15:35:32,307 - __main__ - INFO - create a torch-lenet yaml named job22.yaml
+2019-07-02 15:35:32,307 - __main__ - INFO - add job22-torch-lenet,submitted on 105
+2019-07-02 15:35:32,308 - __main__ - INFO - create a tf-drnn yaml named job23.yaml
+2019-07-02 15:35:32,308 - __main__ - INFO - add job23-tf-drnn,submitted on 79
+2019-07-02 15:35:32,308 - __main__ - INFO - create a torch-vae yaml named job24.yaml
+2019-07-02 15:35:32,308 - __main__ - INFO - add job24-torch-vae,submitted on 382
+2019-07-02 15:35:32,309 - __main__ - INFO - create a tf-rnn yaml named job25.yaml
+2019-07-02 15:35:32,309 - __main__ - INFO - add job25-tf-rnn,submitted on 271
+2019-07-02 15:35:32,309 - __main__ - INFO - successful created yamls and scheduler
+2019-07-02 15:54:12,551 - __main__ - INFO - delete all previous yamls
+2019-07-02 15:54:12,555 - __main__ - INFO - create a new scheduler
+2019-07-02 15:54:12,563 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-02 15:54:12,563 - __main__ - INFO - add job1-tf-drnn,submitted on 75
+2019-07-02 15:54:12,564 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-02 15:54:12,564 - __main__ - INFO - add job2-torch-lenet,submitted on 359
+2019-07-02 15:54:12,564 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-02 15:54:12,564 - __main__ - INFO - add job3-tf-drnn,submitted on 2
+2019-07-02 15:54:12,565 - __main__ - INFO - create a tf-birnn yaml named job4.yaml
+2019-07-02 15:54:12,565 - __main__ - INFO - add job4-tf-birnn,submitted on 273
+2019-07-02 15:54:12,565 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-02 15:54:12,565 - __main__ - INFO - add job5-tf-drnn,submitted on 23
+2019-07-02 15:54:12,565 - __main__ - INFO - create a tf-rnn yaml named job6.yaml
+2019-07-02 15:54:12,566 - __main__ - INFO - add job6-tf-rnn,submitted on 300
+2019-07-02 15:54:12,566 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-02 15:54:12,566 - __main__ - INFO - add job7-tf-drnn,submitted on 134
+2019-07-02 15:54:12,567 - __main__ - INFO - create a tf-rnn yaml named job8.yaml
+2019-07-02 15:54:12,567 - __main__ - INFO - add job8-tf-rnn,submitted on 447
+2019-07-02 15:54:12,567 - __main__ - INFO - create a tf-rnn yaml named job9.yaml
+2019-07-02 15:54:12,567 - __main__ - INFO - add job9-tf-rnn,submitted on 281
+2019-07-02 15:54:12,567 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-02 15:54:12,567 - __main__ - INFO - add job10-torch-lenet,submitted on 432
+2019-07-02 15:54:12,568 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-02 15:54:12,568 - __main__ - INFO - add job11-tf-drnn,submitted on 36
+2019-07-02 15:54:12,568 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-02 15:54:12,568 - __main__ - INFO - add job12-torch-vae,submitted on 23
+2019-07-02 15:54:12,569 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-02 15:54:12,569 - __main__ - INFO - add job13-torch-vae,submitted on 248
+2019-07-02 15:54:12,569 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-02 15:54:12,570 - __main__ - INFO - add job14-torch-lenet,submitted on 28
+2019-07-02 15:54:12,570 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-02 15:54:12,570 - __main__ - INFO - add job15-tf-birnn,submitted on 279
+2019-07-02 15:54:12,570 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-02 15:54:12,570 - __main__ - INFO - add job16-torch-vae,submitted on 31
+2019-07-02 15:54:12,571 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-02 15:54:12,571 - __main__ - INFO - add job17-tf-birnn,submitted on 314
+2019-07-02 15:54:12,571 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-02 15:54:12,571 - __main__ - INFO - add job18-tf-drnn,submitted on 324
+2019-07-02 15:54:12,571 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-02 15:54:12,572 - __main__ - INFO - add job19-tf-birnn,submitted on 427
+2019-07-02 15:54:12,572 - __main__ - INFO - create a tf-rnn yaml named job20.yaml
+2019-07-02 15:54:12,572 - __main__ - INFO - add job20-tf-rnn,submitted on 354
+2019-07-02 15:54:12,572 - __main__ - INFO - create a torch-vae yaml named job21.yaml
+2019-07-02 15:54:12,573 - __main__ - INFO - add job21-torch-vae,submitted on 435
+2019-07-02 15:54:12,573 - __main__ - INFO - create a tf-drnn yaml named job22.yaml
+2019-07-02 15:54:12,573 - __main__ - INFO - add job22-tf-drnn,submitted on 118
+2019-07-02 15:54:12,573 - __main__ - INFO - create a torch-vae yaml named job23.yaml
+2019-07-02 15:54:12,574 - __main__ - INFO - add job23-torch-vae,submitted on 296
+2019-07-02 15:54:12,574 - __main__ - INFO - create a tf-drnn yaml named job24.yaml
+2019-07-02 15:54:12,574 - __main__ - INFO - add job24-tf-drnn,submitted on 264
+2019-07-02 15:54:12,575 - __main__ - INFO - create a tf-drnn yaml named job25.yaml
+2019-07-02 15:54:12,575 - __main__ - INFO - add job25-tf-drnn,submitted on 224
+2019-07-02 15:54:12,575 - __main__ - INFO - successful created yamls and scheduler
+2019-07-06 14:59:18,606 - __main__ - INFO - delete all previous yamls
+2019-07-06 14:59:18,606 - __main__ - INFO - create a new scheduler
+2019-07-06 14:59:18,609 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-06 14:59:18,610 - __main__ - INFO - add job1-tf-birnn,submitted on 0
+2019-07-06 14:59:18,616 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-06 14:59:18,616 - __main__ - INFO - add job2-torch-lenet,submitted on 268
+2019-07-06 14:59:18,616 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-06 14:59:18,616 - __main__ - INFO - add job3-torch-vae,submitted on 162
+2019-07-06 14:59:18,617 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-06 14:59:18,617 - __main__ - INFO - add job4-torch-lenet,submitted on 178
+2019-07-06 14:59:18,617 - __main__ - INFO - create a tf-rnn yaml named job5.yaml
+2019-07-06 14:59:18,617 - __main__ - INFO - add job5-tf-rnn,submitted on 279
+2019-07-06 14:59:18,618 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-06 14:59:18,618 - __main__ - INFO - add job6-torch-vae,submitted on 147
+2019-07-06 14:59:18,618 - __main__ - INFO - create a tf-rnn yaml named job7.yaml
+2019-07-06 14:59:18,618 - __main__ - INFO - add job7-tf-rnn,submitted on 189
+2019-07-06 14:59:18,619 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-06 14:59:18,619 - __main__ - INFO - add job8-torch-lenet,submitted on 200
+2019-07-06 14:59:18,619 - __main__ - INFO - create a tf-birnn yaml named job9.yaml
+2019-07-06 14:59:18,619 - __main__ - INFO - add job9-tf-birnn,submitted on 104
+2019-07-06 14:59:18,619 - __main__ - INFO - create a tf-rnn yaml named job10.yaml
+2019-07-06 14:59:18,620 - __main__ - INFO - add job10-tf-rnn,submitted on 198
+2019-07-06 14:59:18,620 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-06 14:59:18,620 - __main__ - INFO - add job11-torch-lenet,submitted on 93
+2019-07-06 14:59:18,620 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-06 14:59:18,620 - __main__ - INFO - add job12-tf-birnn,submitted on 165
+2019-07-06 14:59:18,621 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-06 14:59:18,621 - __main__ - INFO - add job13-torch-vae,submitted on 202
+2019-07-06 14:59:18,621 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-06 14:59:18,621 - __main__ - INFO - add job14-torch-lenet,submitted on 214
+2019-07-06 14:59:18,622 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-06 14:59:18,622 - __main__ - INFO - add job15-tf-birnn,submitted on 169
+2019-07-06 14:59:18,622 - __main__ - INFO - successful created yamls and scheduler
+2019-07-17 13:24:24,293 - __main__ - INFO - delete all previous yamls
+2019-07-17 13:24:24,293 - __main__ - INFO - create a new scheduler
+2019-07-17 13:24:24,312 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-17 13:24:24,313 - __main__ - INFO - add job1-tf-cnn,submitted on 110
+2019-07-17 13:24:24,314 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-17 13:24:24,314 - __main__ - INFO - add job2-tf-cnn,submitted on 27
+2019-07-17 13:24:24,314 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-17 13:24:24,315 - __main__ - INFO - add job3-torch-lenet,submitted on 276
+2019-07-17 13:24:24,315 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-17 13:24:24,315 - __main__ - INFO - add job4-torch-lenet,submitted on 296
+2019-07-17 13:24:24,316 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-17 13:24:24,316 - __main__ - INFO - add job5-tf-drnn,submitted on 238
+2019-07-17 13:24:24,317 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-17 13:24:24,317 - __main__ - INFO - add job6-tf-cnn,submitted on 6
+2019-07-17 13:24:24,317 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-17 13:24:24,317 - __main__ - INFO - add job7-tf-birnn,submitted on 172
+2019-07-17 13:24:24,318 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-17 13:24:24,318 - __main__ - INFO - add job8-torch-lenet,submitted on 137
+2019-07-17 13:24:24,318 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-17 13:24:24,318 - __main__ - INFO - add job9-torch-lenet,submitted on 197
+2019-07-17 13:24:24,319 - __main__ - INFO - create a tf-cnn yaml named job10.yaml
+2019-07-17 13:24:24,319 - __main__ - INFO - add job10-tf-cnn,submitted on 143
+2019-07-17 13:24:24,319 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-07-17 13:24:24,320 - __main__ - INFO - add job11-tf-birnn,submitted on 292
+2019-07-17 13:24:24,320 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-17 13:24:24,320 - __main__ - INFO - add job12-torch-vae,submitted on 264
+2019-07-17 13:24:24,321 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-17 13:24:24,321 - __main__ - INFO - add job13-tf-birnn,submitted on 42
+2019-07-17 13:24:24,321 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-17 13:24:24,321 - __main__ - INFO - add job14-tf-cnn,submitted on 49
+2019-07-17 13:24:24,322 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-17 13:24:24,322 - __main__ - INFO - add job15-tf-drnn,submitted on 226
+2019-07-17 13:24:24,323 - __main__ - INFO - successful created yamls and scheduler
+2019-07-17 13:49:31,017 - __main__ - INFO - delete all previous yamls
+2019-07-17 13:49:31,018 - __main__ - INFO - create a new scheduler
+2019-07-17 13:49:31,020 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-17 13:49:31,020 - __main__ - INFO - add job1-tf-cnn,submitted on 98
+2019-07-17 13:49:31,021 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-17 13:49:31,022 - __main__ - INFO - add job2-torch-lenet,submitted on 64
+2019-07-17 13:49:31,022 - __main__ - INFO - create a tf-cnn yaml named job3.yaml
+2019-07-17 13:49:31,023 - __main__ - INFO - add job3-tf-cnn,submitted on 209
+2019-07-17 13:49:31,023 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-17 13:49:31,024 - __main__ - INFO - add job4-torch-vae,submitted on 275
+2019-07-17 13:49:31,025 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-17 13:49:31,025 - __main__ - INFO - add job5-tf-drnn,submitted on 95
+2019-07-17 13:49:31,025 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-17 13:49:31,026 - __main__ - INFO - add job6-torch-vae,submitted on 221
+2019-07-17 13:49:31,026 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-17 13:49:31,026 - __main__ - INFO - add job7-tf-drnn,submitted on 17
+2019-07-17 13:49:31,027 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-17 13:49:31,027 - __main__ - INFO - add job8-tf-cnn,submitted on 160
+2019-07-17 13:49:31,027 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-17 13:49:31,028 - __main__ - INFO - add job9-torch-lenet,submitted on 223
+2019-07-17 13:49:31,028 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-17 13:49:31,028 - __main__ - INFO - add job10-tf-drnn,submitted on 57
+2019-07-17 13:49:31,029 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-17 13:49:31,029 - __main__ - INFO - add job11-torch-lenet,submitted on 202
+2019-07-17 13:49:31,030 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-17 13:49:31,030 - __main__ - INFO - add job12-tf-birnn,submitted on 291
+2019-07-17 13:49:31,031 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-17 13:49:31,031 - __main__ - INFO - add job13-tf-drnn,submitted on 256
+2019-07-17 13:49:31,031 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-17 13:49:31,031 - __main__ - INFO - add job14-tf-drnn,submitted on 140
+2019-07-17 13:49:31,031 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-17 13:49:31,032 - __main__ - INFO - add job15-tf-cnn,submitted on 232
+2019-07-17 13:49:31,032 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:13:35,833 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:13:35,834 - __main__ - INFO - create a new scheduler
+2019-07-24 12:13:35,834 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-24 12:13:35,834 - __main__ - INFO - add job1-tf-birnn,submitted on 29
+2019-07-24 12:13:35,834 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-24 12:13:35,834 - __main__ - INFO - add job2-torch-vae,submitted on 73
+2019-07-24 12:13:35,834 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-24 12:13:35,834 - __main__ - INFO - add job3-torch-lenet,submitted on 79
+2019-07-24 12:13:35,835 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-24 12:13:35,835 - __main__ - INFO - add job4-tf-drnn,submitted on 137
+2019-07-24 12:13:35,835 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-24 12:13:35,835 - __main__ - INFO - add job5-torch-vae,submitted on 177
+2019-07-24 12:13:35,835 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-24 12:13:35,835 - __main__ - INFO - add job6-tf-birnn,submitted on 204
+2019-07-24 12:13:35,835 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-24 12:13:35,835 - __main__ - INFO - add job7-torch-vae,submitted on 22
+2019-07-24 12:13:35,835 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-24 12:13:35,835 - __main__ - INFO - add job8-tf-birnn,submitted on 27
+2019-07-24 12:13:35,835 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:13:57,367 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:13:57,367 - __main__ - INFO - create a new scheduler
+2019-07-24 12:13:57,367 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-24 12:13:57,367 - __main__ - INFO - add job1-torch-vae,submitted on 242
+2019-07-24 12:13:57,368 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-24 12:13:57,368 - __main__ - INFO - add job2-tf-birnn,submitted on 91
+2019-07-24 12:13:57,368 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-24 12:13:57,368 - __main__ - INFO - add job3-torch-vae,submitted on 216
+2019-07-24 12:13:57,368 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-24 12:13:57,368 - __main__ - INFO - add job4-torch-lenet,submitted on 228
+2019-07-24 12:13:57,370 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-24 12:13:57,370 - __main__ - INFO - add job5-torch-vae,submitted on 83
+2019-07-24 12:13:57,370 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-24 12:13:57,370 - __main__ - INFO - add job6-tf-cnn,submitted on 16
+2019-07-24 12:13:57,370 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-24 12:13:57,370 - __main__ - INFO - add job7-tf-drnn,submitted on 206
+2019-07-24 12:13:57,370 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-24 12:13:57,371 - __main__ - INFO - add job8-tf-drnn,submitted on 215
+2019-07-24 12:13:57,371 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:14:21,931 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:14:21,931 - __main__ - INFO - create a new scheduler
+2019-07-24 12:14:21,931 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-24 12:14:21,931 - __main__ - INFO - add job1-tf-drnn,submitted on 32
+2019-07-24 12:14:21,931 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-24 12:14:21,931 - __main__ - INFO - add job2-torch-vae,submitted on 90
+2019-07-24 12:14:21,932 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-24 12:14:21,932 - __main__ - INFO - add job3-tf-birnn,submitted on 184
+2019-07-24 12:14:21,932 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-24 12:14:21,932 - __main__ - INFO - add job4-torch-lenet,submitted on 4
+2019-07-24 12:14:21,932 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-24 12:14:21,934 - __main__ - INFO - add job5-tf-cnn,submitted on 428
+2019-07-24 12:14:21,934 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-24 12:14:21,934 - __main__ - INFO - add job6-torch-vae,submitted on 579
+2019-07-24 12:14:21,934 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-24 12:14:21,934 - __main__ - INFO - add job7-tf-drnn,submitted on 535
+2019-07-24 12:14:21,934 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-24 12:14:21,934 - __main__ - INFO - add job8-torch-vae,submitted on 538
+2019-07-24 12:14:21,934 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:14:40,158 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:14:40,159 - __main__ - INFO - create a new scheduler
+2019-07-24 12:14:40,159 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-24 12:14:40,159 - __main__ - INFO - add job1-tf-drnn,submitted on 43
+2019-07-24 12:14:40,159 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-24 12:14:40,159 - __main__ - INFO - add job2-tf-drnn,submitted on 530
+2019-07-24 12:14:40,159 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-24 12:14:40,159 - __main__ - INFO - add job3-torch-vae,submitted on 278
+2019-07-24 12:14:40,160 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-24 12:14:40,160 - __main__ - INFO - add job4-tf-drnn,submitted on 142
+2019-07-24 12:14:40,160 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-24 12:14:40,160 - __main__ - INFO - add job5-tf-birnn,submitted on 169
+2019-07-24 12:14:40,160 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-24 12:14:40,160 - __main__ - INFO - add job6-torch-lenet,submitted on 257
+2019-07-24 12:14:40,162 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-24 12:14:40,162 - __main__ - INFO - add job7-torch-lenet,submitted on 325
+2019-07-24 12:14:40,162 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-24 12:14:40,162 - __main__ - INFO - add job8-torch-lenet,submitted on 200
+2019-07-24 12:14:40,162 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:14:48,293 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:14:48,294 - __main__ - INFO - create a new scheduler
+2019-07-24 12:14:48,294 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-24 12:14:48,294 - __main__ - INFO - add job1-torch-lenet,submitted on 260
+2019-07-24 12:14:48,294 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-24 12:14:48,294 - __main__ - INFO - add job2-tf-drnn,submitted on 210
+2019-07-24 12:14:48,294 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-24 12:14:48,294 - __main__ - INFO - add job3-tf-birnn,submitted on 350
+2019-07-24 12:14:48,294 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-24 12:14:48,295 - __main__ - INFO - add job4-tf-cnn,submitted on 156
+2019-07-24 12:14:48,295 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-24 12:14:48,295 - __main__ - INFO - add job5-torch-lenet,submitted on 480
+2019-07-24 12:14:48,295 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-24 12:14:48,295 - __main__ - INFO - add job6-torch-vae,submitted on 195
+2019-07-24 12:14:48,295 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-24 12:14:48,295 - __main__ - INFO - add job7-tf-birnn,submitted on 523
+2019-07-24 12:14:48,295 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-24 12:14:48,295 - __main__ - INFO - add job8-torch-lenet,submitted on 401
+2019-07-24 12:14:48,295 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:00,275 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:00,275 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:00,275 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-24 12:15:00,275 - __main__ - INFO - add job1-tf-cnn,submitted on 159
+2019-07-24 12:15:00,275 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-24 12:15:00,276 - __main__ - INFO - add job2-torch-lenet,submitted on 103
+2019-07-24 12:15:00,276 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-24 12:15:00,276 - __main__ - INFO - add job3-tf-drnn,submitted on 384
+2019-07-24 12:15:00,276 - __main__ - INFO - create a tf-birnn yaml named job4.yaml
+2019-07-24 12:15:00,276 - __main__ - INFO - add job4-tf-birnn,submitted on 546
+2019-07-24 12:15:00,276 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-24 12:15:00,276 - __main__ - INFO - add job5-tf-drnn,submitted on 290
+2019-07-24 12:15:00,276 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-24 12:15:00,276 - __main__ - INFO - add job6-tf-cnn,submitted on 358
+2019-07-24 12:15:00,277 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-24 12:15:00,277 - __main__ - INFO - add job7-torch-lenet,submitted on 408
+2019-07-24 12:15:00,277 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-24 12:15:00,277 - __main__ - INFO - add job8-tf-drnn,submitted on 454
+2019-07-24 12:15:00,277 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:07,422 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:07,423 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:07,423 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-24 12:15:07,423 - __main__ - INFO - add job1-tf-drnn,submitted on 278
+2019-07-24 12:15:07,423 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-24 12:15:07,423 - __main__ - INFO - add job2-tf-drnn,submitted on 84
+2019-07-24 12:15:07,423 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-24 12:15:07,423 - __main__ - INFO - add job3-torch-vae,submitted on 576
+2019-07-24 12:15:07,424 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-24 12:15:07,424 - __main__ - INFO - add job4-torch-lenet,submitted on 557
+2019-07-24 12:15:07,424 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-24 12:15:07,424 - __main__ - INFO - add job5-tf-cnn,submitted on 157
+2019-07-24 12:15:07,424 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-24 12:15:07,424 - __main__ - INFO - add job6-torch-lenet,submitted on 596
+2019-07-24 12:15:07,425 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-24 12:15:07,425 - __main__ - INFO - add job7-tf-cnn,submitted on 438
+2019-07-24 12:15:07,425 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-24 12:15:07,425 - __main__ - INFO - add job8-torch-vae,submitted on 364
+2019-07-24 12:15:07,425 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:17,466 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:17,466 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:17,466 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-24 12:15:17,466 - __main__ - INFO - add job1-tf-drnn,submitted on 399
+2019-07-24 12:15:17,466 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-24 12:15:17,466 - __main__ - INFO - add job2-tf-cnn,submitted on 141
+2019-07-24 12:15:17,467 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-24 12:15:17,467 - __main__ - INFO - add job3-tf-birnn,submitted on 347
+2019-07-24 12:15:17,467 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-24 12:15:17,467 - __main__ - INFO - add job4-tf-cnn,submitted on 233
+2019-07-24 12:15:17,467 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-24 12:15:17,467 - __main__ - INFO - add job5-tf-birnn,submitted on 452
+2019-07-24 12:15:17,467 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-24 12:15:17,467 - __main__ - INFO - add job6-tf-drnn,submitted on 551
+2019-07-24 12:15:17,467 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-24 12:15:17,467 - __main__ - INFO - add job7-torch-lenet,submitted on 392
+2019-07-24 12:15:17,467 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-24 12:15:17,468 - __main__ - INFO - add job8-tf-cnn,submitted on 102
+2019-07-24 12:15:17,468 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:25,430 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:25,431 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:25,431 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-24 12:15:25,431 - __main__ - INFO - add job1-torch-lenet,submitted on 99
+2019-07-24 12:15:25,431 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-24 12:15:25,431 - __main__ - INFO - add job2-torch-lenet,submitted on 232
+2019-07-24 12:15:25,431 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-24 12:15:25,431 - __main__ - INFO - add job3-tf-drnn,submitted on 78
+2019-07-24 12:15:25,432 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-24 12:15:25,432 - __main__ - INFO - add job4-torch-vae,submitted on 114
+2019-07-24 12:15:25,432 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-24 12:15:25,432 - __main__ - INFO - add job5-torch-lenet,submitted on 536
+2019-07-24 12:15:25,432 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-24 12:15:25,432 - __main__ - INFO - add job6-tf-drnn,submitted on 434
+2019-07-24 12:15:25,432 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-24 12:15:25,432 - __main__ - INFO - add job7-tf-cnn,submitted on 93
+2019-07-24 12:15:25,432 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-24 12:15:25,432 - __main__ - INFO - add job8-torch-lenet,submitted on 574
+2019-07-24 12:15:25,433 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:32,719 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:32,719 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:32,720 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-24 12:15:32,720 - __main__ - INFO - add job1-torch-lenet,submitted on 581
+2019-07-24 12:15:32,720 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-24 12:15:32,720 - __main__ - INFO - add job2-torch-vae,submitted on 221
+2019-07-24 12:15:32,721 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-24 12:15:32,721 - __main__ - INFO - add job3-torch-lenet,submitted on 277
+2019-07-24 12:15:32,722 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-24 12:15:32,722 - __main__ - INFO - add job4-tf-cnn,submitted on 363
+2019-07-24 12:15:32,722 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-24 12:15:32,722 - __main__ - INFO - add job5-torch-lenet,submitted on 232
+2019-07-24 12:15:32,722 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-24 12:15:32,722 - __main__ - INFO - add job6-tf-birnn,submitted on 345
+2019-07-24 12:15:32,722 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-24 12:15:32,722 - __main__ - INFO - add job7-tf-cnn,submitted on 147
+2019-07-24 12:15:32,722 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-24 12:15:32,723 - __main__ - INFO - add job8-torch-vae,submitted on 345
+2019-07-24 12:15:32,723 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:41,228 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:41,228 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:41,229 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-24 12:15:41,229 - __main__ - INFO - add job1-tf-birnn,submitted on 575
+2019-07-24 12:15:41,230 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-24 12:15:41,230 - __main__ - INFO - add job2-tf-drnn,submitted on 529
+2019-07-24 12:15:41,230 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-24 12:15:41,230 - __main__ - INFO - add job3-tf-drnn,submitted on 226
+2019-07-24 12:15:41,230 - __main__ - INFO - create a tf-birnn yaml named job4.yaml
+2019-07-24 12:15:41,230 - __main__ - INFO - add job4-tf-birnn,submitted on 302
+2019-07-24 12:15:41,230 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-24 12:15:41,230 - __main__ - INFO - add job5-torch-vae,submitted on 525
+2019-07-24 12:15:41,230 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-24 12:15:41,231 - __main__ - INFO - add job6-torch-lenet,submitted on 278
+2019-07-24 12:15:41,231 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-24 12:15:41,231 - __main__ - INFO - add job7-tf-drnn,submitted on 345
+2019-07-24 12:15:41,231 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-24 12:15:41,231 - __main__ - INFO - add job8-torch-vae,submitted on 262
+2019-07-24 12:15:41,231 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:50,372 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:50,372 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:50,373 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-24 12:15:50,373 - __main__ - INFO - add job1-tf-drnn,submitted on 452
+2019-07-24 12:15:50,373 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-24 12:15:50,373 - __main__ - INFO - add job2-torch-lenet,submitted on 83
+2019-07-24 12:15:50,374 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-24 12:15:50,374 - __main__ - INFO - add job3-torch-lenet,submitted on 436
+2019-07-24 12:15:50,374 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-24 12:15:50,374 - __main__ - INFO - add job4-torch-vae,submitted on 527
+2019-07-24 12:15:50,374 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-24 12:15:50,374 - __main__ - INFO - add job5-torch-vae,submitted on 579
+2019-07-24 12:15:50,374 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-24 12:15:50,374 - __main__ - INFO - add job6-tf-birnn,submitted on 546
+2019-07-24 12:15:50,374 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-24 12:15:50,374 - __main__ - INFO - add job7-tf-birnn,submitted on 70
+2019-07-24 12:15:50,375 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-24 12:15:50,375 - __main__ - INFO - add job8-torch-vae,submitted on 428
+2019-07-24 12:15:50,375 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:15:59,915 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:15:59,915 - __main__ - INFO - create a new scheduler
+2019-07-24 12:15:59,915 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-24 12:15:59,915 - __main__ - INFO - add job1-tf-birnn,submitted on 464
+2019-07-24 12:15:59,915 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-24 12:15:59,915 - __main__ - INFO - add job2-torch-lenet,submitted on 551
+2019-07-24 12:15:59,916 - __main__ - INFO - create a tf-cnn yaml named job3.yaml
+2019-07-24 12:15:59,916 - __main__ - INFO - add job3-tf-cnn,submitted on 282
+2019-07-24 12:15:59,916 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-24 12:15:59,916 - __main__ - INFO - add job4-torch-lenet,submitted on 363
+2019-07-24 12:15:59,916 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-24 12:15:59,916 - __main__ - INFO - add job5-torch-vae,submitted on 16
+2019-07-24 12:15:59,916 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-24 12:15:59,916 - __main__ - INFO - add job6-torch-lenet,submitted on 355
+2019-07-24 12:15:59,917 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-24 12:15:59,917 - __main__ - INFO - add job7-tf-cnn,submitted on 185
+2019-07-24 12:15:59,917 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-24 12:15:59,917 - __main__ - INFO - add job8-tf-cnn,submitted on 464
+2019-07-24 12:15:59,917 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:16:07,414 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:16:07,414 - __main__ - INFO - create a new scheduler
+2019-07-24 12:16:07,414 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-24 12:16:07,414 - __main__ - INFO - add job1-tf-drnn,submitted on 575
+2019-07-24 12:16:07,414 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-24 12:16:07,415 - __main__ - INFO - add job2-tf-birnn,submitted on 115
+2019-07-24 12:16:07,415 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-24 12:16:07,415 - __main__ - INFO - add job3-tf-drnn,submitted on 460
+2019-07-24 12:16:07,415 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-24 12:16:07,415 - __main__ - INFO - add job4-tf-cnn,submitted on 20
+2019-07-24 12:16:07,415 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-24 12:16:07,415 - __main__ - INFO - add job5-tf-birnn,submitted on 71
+2019-07-24 12:16:07,415 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-24 12:16:07,415 - __main__ - INFO - add job6-torch-lenet,submitted on 87
+2019-07-24 12:16:07,415 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-24 12:16:07,416 - __main__ - INFO - add job7-tf-birnn,submitted on 79
+2019-07-24 12:16:07,416 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-24 12:16:07,416 - __main__ - INFO - add job8-tf-drnn,submitted on 17
+2019-07-24 12:16:07,416 - __main__ - INFO - successful created yamls and scheduler
+2019-07-24 12:16:13,851 - __main__ - INFO - delete all previous yamls
+2019-07-24 12:16:13,851 - __main__ - INFO - create a new scheduler
+2019-07-24 12:16:13,852 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-24 12:16:13,852 - __main__ - INFO - add job1-tf-birnn,submitted on 110
+2019-07-24 12:16:13,852 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-24 12:16:13,852 - __main__ - INFO - add job2-tf-cnn,submitted on 532
+2019-07-24 12:16:13,853 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-24 12:16:13,853 - __main__ - INFO - add job3-tf-drnn,submitted on 132
+2019-07-24 12:16:13,853 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-24 12:16:13,853 - __main__ - INFO - add job4-torch-vae,submitted on 179
+2019-07-24 12:16:13,853 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-24 12:16:13,853 - __main__ - INFO - add job5-torch-lenet,submitted on 28
+2019-07-24 12:16:13,853 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-24 12:16:13,853 - __main__ - INFO - add job6-tf-cnn,submitted on 16
+2019-07-24 12:16:13,853 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-24 12:16:13,853 - __main__ - INFO - add job7-torch-lenet,submitted on 429
+2019-07-24 12:16:13,854 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-24 12:16:13,854 - __main__ - INFO - add job8-tf-birnn,submitted on 336
+2019-07-24 12:16:13,854 - __main__ - INFO - successful created yamls and scheduler
+2019-07-26 11:39:55,711 - __main__ - INFO - delete all previous yamls
+2019-07-26 11:39:55,711 - __main__ - INFO - create a new scheduler
+2019-07-26 11:39:55,711 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 11:39:55,711 - __main__ - INFO - add job1-tf-drnn,submitted on 374
+2019-07-26 11:39:55,712 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 11:39:55,712 - __main__ - INFO - add job2-tf-drnn,submitted on 500
+2019-07-26 11:39:55,712 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 11:39:55,712 - __main__ - INFO - add job3-tf-drnn,submitted on 246
+2019-07-26 11:39:55,712 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 11:39:55,712 - __main__ - INFO - add job4-tf-drnn,submitted on 143
+2019-07-26 11:40:33,271 - __main__ - INFO - delete all previous yamls
+2019-07-26 11:40:33,272 - __main__ - INFO - create a new scheduler
+2019-07-26 11:40:33,272 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 11:40:33,272 - __main__ - INFO - add job1-tf-drnn,submitted on 132
+2019-07-26 11:40:33,272 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 11:40:33,273 - __main__ - INFO - add job2-tf-drnn,submitted on 468
+2019-07-26 11:40:33,273 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 11:40:33,273 - __main__ - INFO - add job3-tf-drnn,submitted on 310
+2019-07-26 11:40:33,273 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 11:40:33,273 - __main__ - INFO - add job4-tf-drnn,submitted on 164
+2019-07-26 11:40:33,273 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-26 11:40:33,273 - __main__ - INFO - add job5-tf-drnn,submitted on 464
+2019-07-26 11:40:33,273 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-26 11:40:33,273 - __main__ - INFO - add job6-tf-drnn,submitted on 343
+2019-07-26 11:40:33,273 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-26 11:40:33,274 - __main__ - INFO - add job7-tf-drnn,submitted on 44
+2019-07-26 11:40:33,274 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-26 11:40:33,274 - __main__ - INFO - add job8-tf-drnn,submitted on 346
+2019-07-26 11:40:33,274 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-26 11:40:33,274 - __main__ - INFO - add job9-tf-drnn,submitted on 443
+2019-07-26 11:40:33,274 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-26 11:40:33,274 - __main__ - INFO - add job10-tf-drnn,submitted on 77
+2019-07-26 11:40:33,274 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-26 11:40:33,274 - __main__ - INFO - add job11-tf-drnn,submitted on 157
+2019-07-26 11:40:33,274 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-26 11:40:33,275 - __main__ - INFO - add job12-tf-drnn,submitted on 248
+2019-07-26 11:40:33,275 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-26 11:40:33,275 - __main__ - INFO - add job13-tf-drnn,submitted on 127
+2019-07-26 11:40:33,275 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-26 11:40:33,275 - __main__ - INFO - add job14-tf-drnn,submitted on 243
+2019-07-26 11:40:33,275 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-26 11:40:33,276 - __main__ - INFO - add job15-tf-drnn,submitted on 375
+2019-07-26 11:40:33,276 - __main__ - INFO - successful created yamls and scheduler
+2019-07-26 12:03:15,740 - __main__ - INFO - delete all previous yamls
+2019-07-26 12:03:15,740 - __main__ - INFO - create a new scheduler
+2019-07-26 12:03:15,741 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 12:03:15,741 - __main__ - INFO - add job1-tf-drnn,submitted on 307
+2019-07-26 12:03:15,741 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 12:03:15,741 - __main__ - INFO - add job2-tf-drnn,submitted on 210
+2019-07-26 12:03:15,741 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 12:03:15,741 - __main__ - INFO - add job3-tf-drnn,submitted on 258
+2019-07-26 12:03:15,741 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 12:03:15,741 - __main__ - INFO - add job4-tf-drnn,submitted on 404
+2019-07-26 12:03:15,742 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-26 12:03:15,742 - __main__ - INFO - add job5-tf-drnn,submitted on 195
+2019-07-26 12:03:15,742 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-26 12:03:15,742 - __main__ - INFO - add job6-tf-drnn,submitted on 457
+2019-07-26 12:03:15,742 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-26 12:03:15,742 - __main__ - INFO - add job7-tf-drnn,submitted on 236
+2019-07-26 12:03:15,742 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-26 12:03:15,742 - __main__ - INFO - add job8-tf-drnn,submitted on 469
+2019-07-26 12:03:15,742 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-26 12:03:15,742 - __main__ - INFO - add job9-tf-drnn,submitted on 82
+2019-07-26 12:03:15,743 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-26 12:03:15,743 - __main__ - INFO - add job10-tf-drnn,submitted on 437
+2019-07-26 12:03:15,743 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-26 12:03:15,743 - __main__ - INFO - add job11-tf-drnn,submitted on 9
+2019-07-26 12:03:15,743 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-26 12:03:15,743 - __main__ - INFO - add job12-tf-drnn,submitted on 121
+2019-07-26 12:03:15,743 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-26 12:03:15,743 - __main__ - INFO - add job13-tf-drnn,submitted on 40
+2019-07-26 12:03:15,743 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-26 12:03:15,743 - __main__ - INFO - add job14-tf-drnn,submitted on 11
+2019-07-26 12:03:15,743 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-26 12:03:15,744 - __main__ - INFO - add job15-tf-drnn,submitted on 472
+2019-07-26 12:03:15,744 - __main__ - INFO - successful created yamls and scheduler
+2019-07-26 12:03:25,768 - __main__ - INFO - delete all previous yamls
+2019-07-26 12:03:25,769 - __main__ - INFO - create a new scheduler
+2019-07-26 12:03:25,769 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 12:03:25,769 - __main__ - INFO - add job1-tf-drnn,submitted on 85
+2019-07-26 12:03:25,769 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 12:03:25,769 - __main__ - INFO - add job2-tf-drnn,submitted on 124
+2019-07-26 12:03:25,770 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 12:03:25,770 - __main__ - INFO - add job3-tf-drnn,submitted on 18
+2019-07-26 12:03:25,770 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 12:03:25,770 - __main__ - INFO - add job4-tf-drnn,submitted on 18
+2019-07-26 12:03:25,770 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-26 12:03:25,770 - __main__ - INFO - add job5-tf-drnn,submitted on 337
+2019-07-26 12:03:25,770 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-26 12:03:25,771 - __main__ - INFO - add job6-tf-drnn,submitted on 402
+2019-07-26 12:03:25,771 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-26 12:03:25,771 - __main__ - INFO - add job7-tf-drnn,submitted on 174
+2019-07-26 12:03:25,771 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-26 12:03:25,771 - __main__ - INFO - add job8-tf-drnn,submitted on 499
+2019-07-26 12:03:25,771 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-26 12:03:25,771 - __main__ - INFO - add job9-tf-drnn,submitted on 278
+2019-07-26 12:03:25,772 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-26 12:03:25,772 - __main__ - INFO - add job10-tf-drnn,submitted on 250
+2019-07-26 12:03:25,772 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-26 12:03:25,772 - __main__ - INFO - add job11-tf-drnn,submitted on 335
+2019-07-26 12:03:25,773 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-26 12:03:25,773 - __main__ - INFO - add job12-tf-drnn,submitted on 78
+2019-07-26 12:03:25,773 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-26 12:03:25,773 - __main__ - INFO - add job13-tf-drnn,submitted on 124
+2019-07-26 12:03:25,773 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-26 12:03:25,773 - __main__ - INFO - add job14-tf-drnn,submitted on 335
+2019-07-26 12:03:25,773 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-26 12:03:25,773 - __main__ - INFO - add job15-tf-drnn,submitted on 380
+2019-07-26 12:03:25,774 - __main__ - INFO - successful created yamls and scheduler
+2019-07-26 12:03:31,131 - __main__ - INFO - delete all previous yamls
+2019-07-26 12:03:31,132 - __main__ - INFO - create a new scheduler
+2019-07-26 12:03:31,132 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 12:03:31,132 - __main__ - INFO - add job1-tf-drnn,submitted on 246
+2019-07-26 12:03:31,135 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 12:03:31,135 - __main__ - INFO - add job2-tf-drnn,submitted on 62
+2019-07-26 12:03:31,136 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 12:03:31,136 - __main__ - INFO - add job3-tf-drnn,submitted on 466
+2019-07-26 12:03:31,136 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 12:03:31,136 - __main__ - INFO - add job4-tf-drnn,submitted on 221
+2019-07-26 12:03:31,136 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-26 12:03:31,136 - __main__ - INFO - add job5-tf-drnn,submitted on 251
+2019-07-26 12:03:31,136 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-26 12:03:31,136 - __main__ - INFO - add job6-tf-drnn,submitted on 228
+2019-07-26 12:03:31,136 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-26 12:03:31,136 - __main__ - INFO - add job7-tf-drnn,submitted on 480
+2019-07-26 12:03:31,137 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-26 12:03:31,137 - __main__ - INFO - add job8-tf-drnn,submitted on 271
+2019-07-26 12:03:31,137 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-26 12:03:31,137 - __main__ - INFO - add job9-tf-drnn,submitted on 488
+2019-07-26 12:03:31,137 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-26 12:03:31,137 - __main__ - INFO - add job10-tf-drnn,submitted on 213
+2019-07-26 12:03:31,137 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-26 12:03:31,137 - __main__ - INFO - add job11-tf-drnn,submitted on 334
+2019-07-26 12:03:31,137 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-26 12:03:31,137 - __main__ - INFO - add job12-tf-drnn,submitted on 272
+2019-07-26 12:03:31,137 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-26 12:03:31,138 - __main__ - INFO - add job13-tf-drnn,submitted on 493
+2019-07-26 12:03:31,138 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-26 12:03:31,138 - __main__ - INFO - add job14-tf-drnn,submitted on 314
+2019-07-26 12:03:31,138 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-26 12:03:31,138 - __main__ - INFO - add job15-tf-drnn,submitted on 158
+2019-07-26 12:03:31,138 - __main__ - INFO - successful created yamls and scheduler
+2019-07-26 12:03:43,052 - __main__ - INFO - delete all previous yamls
+2019-07-26 12:03:43,052 - __main__ - INFO - create a new scheduler
+2019-07-26 12:03:43,053 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 12:03:43,053 - __main__ - INFO - add job1-tf-drnn,submitted on 478
+2019-07-26 12:03:43,053 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 12:03:43,053 - __main__ - INFO - add job2-tf-drnn,submitted on 110
+2019-07-26 12:03:43,053 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 12:03:43,053 - __main__ - INFO - add job3-tf-drnn,submitted on 407
+2019-07-26 12:03:43,053 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 12:03:43,053 - __main__ - INFO - add job4-tf-drnn,submitted on 367
+2019-07-26 12:03:43,053 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-26 12:03:43,053 - __main__ - INFO - add job5-tf-drnn,submitted on 449
+2019-07-26 12:03:43,054 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-26 12:03:43,054 - __main__ - INFO - add job6-tf-drnn,submitted on 498
+2019-07-26 12:03:43,054 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-26 12:03:43,054 - __main__ - INFO - add job7-tf-drnn,submitted on 257
+2019-07-26 12:03:43,054 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-26 12:03:43,054 - __main__ - INFO - add job8-tf-drnn,submitted on 354
+2019-07-26 12:03:43,054 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-26 12:03:43,054 - __main__ - INFO - add job9-tf-drnn,submitted on 381
+2019-07-26 12:03:43,054 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-26 12:03:43,055 - __main__ - INFO - add job10-tf-drnn,submitted on 478
+2019-07-26 12:03:43,055 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-26 12:03:43,055 - __main__ - INFO - add job11-tf-drnn,submitted on 161
+2019-07-26 12:03:43,055 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-26 12:03:43,055 - __main__ - INFO - add job12-tf-drnn,submitted on 273
+2019-07-26 12:03:43,055 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-26 12:03:43,055 - __main__ - INFO - add job13-tf-drnn,submitted on 95
+2019-07-26 12:03:43,055 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-26 12:03:43,055 - __main__ - INFO - add job14-tf-drnn,submitted on 318
+2019-07-26 12:03:43,055 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-26 12:03:43,055 - __main__ - INFO - add job15-tf-drnn,submitted on 41
+2019-07-26 12:03:43,055 - __main__ - INFO - successful created yamls and scheduler
+2019-07-26 12:03:49,497 - __main__ - INFO - delete all previous yamls
+2019-07-26 12:03:49,497 - __main__ - INFO - create a new scheduler
+2019-07-26 12:03:49,498 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 12:03:49,498 - __main__ - INFO - add job1-tf-drnn,submitted on 55
+2019-07-26 12:03:49,498 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 12:03:49,498 - __main__ - INFO - add job2-tf-drnn,submitted on 365
+2019-07-26 12:03:49,498 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 12:03:49,498 - __main__ - INFO - add job3-tf-drnn,submitted on 72
+2019-07-26 12:03:49,498 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 12:03:49,498 - __main__ - INFO - add job4-tf-drnn,submitted on 237
+2019-07-26 12:03:49,498 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-26 12:03:49,498 - __main__ - INFO - add job5-tf-drnn,submitted on 61
+2019-07-26 12:03:49,499 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-26 12:03:49,499 - __main__ - INFO - add job6-tf-drnn,submitted on 96
+2019-07-26 12:03:49,499 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-26 12:03:49,499 - __main__ - INFO - add job7-tf-drnn,submitted on 134
+2019-07-26 12:03:49,499 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-26 12:03:49,499 - __main__ - INFO - add job8-tf-drnn,submitted on 71
+2019-07-26 12:03:49,499 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-26 12:03:49,499 - __main__ - INFO - add job9-tf-drnn,submitted on 349
+2019-07-26 12:03:49,499 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-26 12:03:49,499 - __main__ - INFO - add job10-tf-drnn,submitted on 341
+2019-07-26 12:03:49,499 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-26 12:03:49,500 - __main__ - INFO - add job11-tf-drnn,submitted on 499
+2019-07-26 12:03:49,500 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-26 12:03:49,500 - __main__ - INFO - add job12-tf-drnn,submitted on 153
+2019-07-26 12:03:49,500 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-26 12:03:49,500 - __main__ - INFO - add job13-tf-drnn,submitted on 338
+2019-07-26 12:03:49,500 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-26 12:03:49,500 - __main__ - INFO - add job14-tf-drnn,submitted on 462
+2019-07-26 12:03:49,500 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-26 12:03:49,500 - __main__ - INFO - add job15-tf-drnn,submitted on 185
+2019-07-26 12:03:49,501 - __main__ - INFO - successful created yamls and scheduler
+2019-07-26 12:04:00,994 - __main__ - INFO - delete all previous yamls
+2019-07-26 12:04:00,995 - __main__ - INFO - create a new scheduler
+2019-07-26 12:04:00,995 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-26 12:04:00,995 - __main__ - INFO - add job1-tf-drnn,submitted on 331
+2019-07-26 12:04:00,995 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-26 12:04:00,995 - __main__ - INFO - add job2-tf-drnn,submitted on 117
+2019-07-26 12:04:00,995 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-26 12:04:00,995 - __main__ - INFO - add job3-tf-drnn,submitted on 423
+2019-07-26 12:04:00,995 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-26 12:04:00,995 - __main__ - INFO - add job4-tf-drnn,submitted on 400
+2019-07-26 12:04:00,996 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-26 12:04:00,996 - __main__ - INFO - add job5-tf-drnn,submitted on 350
+2019-07-26 12:04:00,996 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-26 12:04:00,996 - __main__ - INFO - add job6-tf-drnn,submitted on 249
+2019-07-26 12:04:00,996 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-26 12:04:00,996 - __main__ - INFO - add job7-tf-drnn,submitted on 90
+2019-07-26 12:04:00,996 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-26 12:04:00,996 - __main__ - INFO - add job8-tf-drnn,submitted on 428
+2019-07-26 12:04:00,996 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-26 12:04:00,996 - __main__ - INFO - add job9-tf-drnn,submitted on 26
+2019-07-26 12:04:00,997 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-26 12:04:00,997 - __main__ - INFO - add job10-tf-drnn,submitted on 411
+2019-07-26 12:04:00,997 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-26 12:04:00,997 - __main__ - INFO - add job11-tf-drnn,submitted on 347
+2019-07-26 12:04:00,997 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-26 12:04:00,997 - __main__ - INFO - add job12-tf-drnn,submitted on 300
+2019-07-26 12:04:00,997 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-26 12:04:00,997 - __main__ - INFO - add job13-tf-drnn,submitted on 58
+2019-07-26 12:04:00,997 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-26 12:04:00,997 - __main__ - INFO - add job14-tf-drnn,submitted on 392
+2019-07-26 12:04:00,997 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-26 12:04:00,998 - __main__ - INFO - add job15-tf-drnn,submitted on 164
+2019-07-26 12:04:00,998 - __main__ - INFO - successful created yamls and scheduler
+2019-07-29 12:32:50,824 - __main__ - INFO - delete all previous yamls
+2019-07-29 12:32:50,824 - __main__ - INFO - create a new scheduler
+2019-07-29 12:32:50,824 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-29 12:32:50,824 - __main__ - INFO - add job1-tf-drnn,submitted on 0
+2019-07-29 12:32:50,824 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-29 12:32:50,825 - __main__ - INFO - add job2-tf-drnn,submitted on 277
+2019-07-29 12:32:50,825 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-29 12:32:50,825 - __main__ - INFO - add job3-tf-drnn,submitted on 232
+2019-07-29 12:32:50,825 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-29 12:32:50,825 - __main__ - INFO - add job4-tf-drnn,submitted on 130
+2019-07-29 12:32:50,825 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-29 12:32:50,825 - __main__ - INFO - add job5-tf-drnn,submitted on 29
+2019-07-29 12:32:50,826 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-29 12:32:50,826 - __main__ - INFO - add job6-tf-drnn,submitted on 203
+2019-07-29 12:32:50,826 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-29 12:32:50,826 - __main__ - INFO - add job7-tf-drnn,submitted on 45
+2019-07-29 12:32:50,826 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-29 12:32:50,826 - __main__ - INFO - add job8-tf-drnn,submitted on 192
+2019-07-29 12:32:50,826 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-29 12:32:50,826 - __main__ - INFO - add job9-tf-drnn,submitted on 167
+2019-07-29 12:32:50,826 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-29 12:32:50,826 - __main__ - INFO - add job10-tf-drnn,submitted on 265
+2019-07-29 12:32:50,826 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-29 12:32:50,827 - __main__ - INFO - add job11-tf-drnn,submitted on 140
+2019-07-29 12:32:50,827 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-29 12:32:50,827 - __main__ - INFO - add job12-tf-drnn,submitted on 213
+2019-07-29 12:32:50,827 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-29 12:32:50,827 - __main__ - INFO - add job13-tf-drnn,submitted on 56
+2019-07-29 12:32:50,827 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-29 12:32:50,827 - __main__ - INFO - add job14-tf-drnn,submitted on 199
+2019-07-29 12:32:50,827 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-29 12:32:50,827 - __main__ - INFO - add job15-tf-drnn,submitted on 275
+2019-07-29 12:32:50,827 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-29 12:32:50,827 - __main__ - INFO - add job16-tf-drnn,submitted on 282
+2019-07-29 12:32:50,828 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-29 12:32:50,828 - __main__ - INFO - add job17-tf-drnn,submitted on 75
+2019-07-29 12:32:50,828 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-29 12:32:50,828 - __main__ - INFO - add job18-tf-drnn,submitted on 2
+2019-07-29 12:32:50,828 - __main__ - INFO - create a tf-drnn yaml named job19.yaml
+2019-07-29 12:32:50,828 - __main__ - INFO - add job19-tf-drnn,submitted on 46
+2019-07-29 12:32:50,828 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-29 12:32:50,828 - __main__ - INFO - add job20-tf-drnn,submitted on 70
+2019-07-29 12:32:50,828 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:05:36,640 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:05:36,640 - __main__ - INFO - create a new scheduler
+2019-07-30 09:05:36,641 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-30 09:05:36,641 - __main__ - INFO - add job1-tf-cnn,submitted on 588
+2019-07-30 09:05:36,641 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-30 09:05:36,641 - __main__ - INFO - add job2-tf-cnn,submitted on 413
+2019-07-30 09:05:36,642 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-30 09:05:36,642 - __main__ - INFO - add job3-tf-drnn,submitted on 306
+2019-07-30 09:05:36,642 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:05:36,642 - __main__ - INFO - add job4-tf-cnn,submitted on 510
+2019-07-30 09:05:36,642 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-30 09:05:36,642 - __main__ - INFO - add job5-tf-cnn,submitted on 318
+2019-07-30 09:05:36,642 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 09:05:36,642 - __main__ - INFO - add job6-torch-lenet,submitted on 564
+2019-07-30 09:05:36,642 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 09:05:36,642 - __main__ - INFO - add job7-torch-vae,submitted on 46
+2019-07-30 09:05:36,642 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-30 09:05:36,643 - __main__ - INFO - add job8-torch-lenet,submitted on 45
+2019-07-30 09:05:36,643 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-30 09:05:36,643 - __main__ - INFO - add job9-tf-drnn,submitted on 512
+2019-07-30 09:05:36,643 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-30 09:05:36,643 - __main__ - INFO - add job10-tf-drnn,submitted on 555
+2019-07-30 09:05:36,643 - __main__ - INFO - create a torch-vae yaml named job11.yaml
+2019-07-30 09:05:36,643 - __main__ - INFO - add job11-torch-vae,submitted on 483
+2019-07-30 09:05:36,643 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-30 09:05:36,644 - __main__ - INFO - add job12-torch-vae,submitted on 481
+2019-07-30 09:05:36,644 - __main__ - INFO - create a torch-lenet yaml named job13.yaml
+2019-07-30 09:05:36,644 - __main__ - INFO - add job13-torch-lenet,submitted on 64
+2019-07-30 09:05:36,644 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-30 09:05:36,644 - __main__ - INFO - add job14-tf-cnn,submitted on 237
+2019-07-30 09:05:36,644 - __main__ - INFO - create a torch-lenet yaml named job15.yaml
+2019-07-30 09:05:36,644 - __main__ - INFO - add job15-torch-lenet,submitted on 194
+2019-07-30 09:05:36,644 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 09:05:36,644 - __main__ - INFO - add job16-tf-drnn,submitted on 78
+2019-07-30 09:05:36,646 - __main__ - INFO - create a torch-lenet yaml named job17.yaml
+2019-07-30 09:05:36,646 - __main__ - INFO - add job17-torch-lenet,submitted on 541
+2019-07-30 09:05:36,647 - __main__ - INFO - create a tf-birnn yaml named job18.yaml
+2019-07-30 09:05:36,647 - __main__ - INFO - add job18-tf-birnn,submitted on 229
+2019-07-30 09:05:36,647 - __main__ - INFO - create a tf-cnn yaml named job19.yaml
+2019-07-30 09:05:36,647 - __main__ - INFO - add job19-tf-cnn,submitted on 223
+2019-07-30 09:05:36,647 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 09:05:36,647 - __main__ - INFO - add job20-torch-lenet,submitted on 21
+2019-07-30 09:05:36,647 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:06:04,039 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:06:04,039 - __main__ - INFO - create a new scheduler
+2019-07-30 09:06:04,039 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-30 09:06:04,040 - __main__ - INFO - add job1-tf-birnn,submitted on 507
+2019-07-30 09:06:04,040 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-30 09:06:04,040 - __main__ - INFO - add job2-tf-birnn,submitted on 184
+2019-07-30 09:06:04,040 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:06:04,040 - __main__ - INFO - add job3-tf-birnn,submitted on 126
+2019-07-30 09:06:04,040 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-30 09:06:04,040 - __main__ - INFO - add job4-torch-lenet,submitted on 436
+2019-07-30 09:06:04,043 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-30 09:06:04,043 - __main__ - INFO - add job5-tf-cnn,submitted on 311
+2019-07-30 09:06:04,043 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-30 09:06:04,043 - __main__ - INFO - add job6-tf-drnn,submitted on 221
+2019-07-30 09:06:04,043 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-30 09:06:04,043 - __main__ - INFO - add job7-torch-lenet,submitted on 516
+2019-07-30 09:06:04,043 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-30 09:06:04,043 - __main__ - INFO - add job8-tf-birnn,submitted on 308
+2019-07-30 09:06:04,044 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-30 09:06:04,044 - __main__ - INFO - add job9-tf-drnn,submitted on 513
+2019-07-30 09:06:04,044 - __main__ - INFO - create a tf-cnn yaml named job10.yaml
+2019-07-30 09:06:04,044 - __main__ - INFO - add job10-tf-cnn,submitted on 369
+2019-07-30 09:06:04,044 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-30 09:06:04,044 - __main__ - INFO - add job11-torch-lenet,submitted on 541
+2019-07-30 09:06:04,044 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 09:06:04,044 - __main__ - INFO - add job12-tf-birnn,submitted on 350
+2019-07-30 09:06:04,044 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 09:06:04,044 - __main__ - INFO - add job13-torch-vae,submitted on 334
+2019-07-30 09:06:04,045 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 09:06:04,045 - __main__ - INFO - add job14-tf-birnn,submitted on 562
+2019-07-30 09:06:04,045 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-30 09:06:04,045 - __main__ - INFO - add job15-tf-drnn,submitted on 54
+2019-07-30 09:06:04,045 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 09:06:04,045 - __main__ - INFO - add job16-torch-lenet,submitted on 487
+2019-07-30 09:06:04,046 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 09:06:04,046 - __main__ - INFO - add job17-tf-cnn,submitted on 71
+2019-07-30 09:06:04,046 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 09:06:04,046 - __main__ - INFO - add job18-tf-cnn,submitted on 579
+2019-07-30 09:06:04,046 - __main__ - INFO - create a torch-lenet yaml named job19.yaml
+2019-07-30 09:06:04,046 - __main__ - INFO - add job19-torch-lenet,submitted on 32
+2019-07-30 09:06:04,046 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-07-30 09:06:04,046 - __main__ - INFO - add job20-tf-cnn,submitted on 342
+2019-07-30 09:06:04,046 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:06:30,172 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:06:30,172 - __main__ - INFO - create a new scheduler
+2019-07-30 09:06:30,172 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-30 09:06:30,172 - __main__ - INFO - add job1-tf-birnn,submitted on 44
+2019-07-30 09:06:30,172 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 09:06:30,173 - __main__ - INFO - add job2-tf-drnn,submitted on 377
+2019-07-30 09:06:30,173 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-30 09:06:30,173 - __main__ - INFO - add job3-torch-vae,submitted on 381
+2019-07-30 09:06:30,174 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:06:30,174 - __main__ - INFO - add job4-tf-cnn,submitted on 99
+2019-07-30 09:06:30,174 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-30 09:06:30,174 - __main__ - INFO - add job5-torch-lenet,submitted on 34
+2019-07-30 09:06:30,174 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-30 09:06:30,175 - __main__ - INFO - add job6-tf-birnn,submitted on 212
+2019-07-30 09:06:30,175 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 09:06:30,175 - __main__ - INFO - add job7-tf-birnn,submitted on 275
+2019-07-30 09:06:30,175 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 09:06:30,175 - __main__ - INFO - add job8-tf-cnn,submitted on 340
+2019-07-30 09:06:30,176 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 09:06:30,176 - __main__ - INFO - add job9-tf-cnn,submitted on 522
+2019-07-30 09:06:30,176 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 09:06:30,176 - __main__ - INFO - add job10-torch-lenet,submitted on 453
+2019-07-30 09:06:30,176 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-30 09:06:30,176 - __main__ - INFO - add job11-tf-drnn,submitted on 59
+2019-07-30 09:06:30,176 - __main__ - INFO - create a torch-lenet yaml named job12.yaml
+2019-07-30 09:06:30,176 - __main__ - INFO - add job12-torch-lenet,submitted on 522
+2019-07-30 09:06:30,176 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 09:06:30,176 - __main__ - INFO - add job13-torch-vae,submitted on 41
+2019-07-30 09:06:30,178 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-30 09:06:30,178 - __main__ - INFO - add job14-torch-lenet,submitted on 520
+2019-07-30 09:06:30,179 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-30 09:06:30,179 - __main__ - INFO - add job15-tf-drnn,submitted on 217
+2019-07-30 09:06:30,179 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-07-30 09:06:30,179 - __main__ - INFO - add job16-tf-birnn,submitted on 192
+2019-07-30 09:06:30,179 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-30 09:06:30,179 - __main__ - INFO - add job17-tf-drnn,submitted on 135
+2019-07-30 09:06:30,179 - __main__ - INFO - create a tf-birnn yaml named job18.yaml
+2019-07-30 09:06:30,179 - __main__ - INFO - add job18-tf-birnn,submitted on 202
+2019-07-30 09:06:30,179 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 09:06:30,179 - __main__ - INFO - add job19-tf-birnn,submitted on 68
+2019-07-30 09:06:30,180 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-30 09:06:30,180 - __main__ - INFO - add job20-tf-drnn,submitted on 475
+2019-07-30 09:06:30,180 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:06:50,188 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:06:50,188 - __main__ - INFO - create a new scheduler
+2019-07-30 09:06:50,189 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-30 09:06:50,189 - __main__ - INFO - add job1-tf-drnn,submitted on 31
+2019-07-30 09:06:50,189 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-30 09:06:50,189 - __main__ - INFO - add job2-tf-birnn,submitted on 198
+2019-07-30 09:06:50,190 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-30 09:06:50,190 - __main__ - INFO - add job3-torch-lenet,submitted on 305
+2019-07-30 09:06:50,190 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:06:50,190 - __main__ - INFO - add job4-tf-cnn,submitted on 193
+2019-07-30 09:06:50,190 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-30 09:06:50,190 - __main__ - INFO - add job5-tf-drnn,submitted on 133
+2019-07-30 09:06:50,191 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-30 09:06:50,191 - __main__ - INFO - add job6-tf-cnn,submitted on 538
+2019-07-30 09:06:50,191 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-30 09:06:50,191 - __main__ - INFO - add job7-tf-cnn,submitted on 476
+2019-07-30 09:06:50,191 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-30 09:06:50,191 - __main__ - INFO - add job8-tf-drnn,submitted on 465
+2019-07-30 09:06:50,191 - __main__ - INFO - create a torch-vae yaml named job9.yaml
+2019-07-30 09:06:50,191 - __main__ - INFO - add job9-torch-vae,submitted on 458
+2019-07-30 09:06:50,191 - __main__ - INFO - create a tf-birnn yaml named job10.yaml
+2019-07-30 09:06:50,191 - __main__ - INFO - add job10-tf-birnn,submitted on 3
+2019-07-30 09:06:50,192 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-30 09:06:50,192 - __main__ - INFO - add job11-torch-lenet,submitted on 544
+2019-07-30 09:06:50,192 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-30 09:06:50,192 - __main__ - INFO - add job12-torch-vae,submitted on 498
+2019-07-30 09:06:50,192 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 09:06:50,192 - __main__ - INFO - add job13-torch-vae,submitted on 346
+2019-07-30 09:06:50,192 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-30 09:06:50,192 - __main__ - INFO - add job14-torch-lenet,submitted on 527
+2019-07-30 09:06:50,192 - __main__ - INFO - create a torch-vae yaml named job15.yaml
+2019-07-30 09:06:50,192 - __main__ - INFO - add job15-torch-vae,submitted on 257
+2019-07-30 09:06:50,194 - __main__ - INFO - create a tf-cnn yaml named job16.yaml
+2019-07-30 09:06:50,195 - __main__ - INFO - add job16-tf-cnn,submitted on 284
+2019-07-30 09:06:50,195 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-30 09:06:50,195 - __main__ - INFO - add job17-tf-drnn,submitted on 87
+2019-07-30 09:06:50,195 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 09:06:50,195 - __main__ - INFO - add job18-tf-cnn,submitted on 84
+2019-07-30 09:06:50,195 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 09:06:50,196 - __main__ - INFO - add job19-tf-birnn,submitted on 365
+2019-07-30 09:06:50,196 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 09:06:50,196 - __main__ - INFO - add job20-tf-birnn,submitted on 97
+2019-07-30 09:06:50,196 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:07:28,522 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:07:28,523 - __main__ - INFO - create a new scheduler
+2019-07-30 09:07:28,523 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-30 09:07:28,523 - __main__ - INFO - add job1-tf-cnn,submitted on 474
+2019-07-30 09:07:28,523 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-30 09:07:28,524 - __main__ - INFO - add job2-tf-cnn,submitted on 461
+2019-07-30 09:07:28,524 - __main__ - INFO - create a tf-cnn yaml named job3.yaml
+2019-07-30 09:07:28,524 - __main__ - INFO - add job3-tf-cnn,submitted on 349
+2019-07-30 09:07:28,524 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-30 09:07:28,524 - __main__ - INFO - add job4-tf-drnn,submitted on 332
+2019-07-30 09:07:28,524 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-30 09:07:28,524 - __main__ - INFO - add job5-tf-cnn,submitted on 266
+2019-07-30 09:07:28,525 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-30 09:07:28,525 - __main__ - INFO - add job6-tf-birnn,submitted on 452
+2019-07-30 09:07:28,525 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-30 09:07:28,525 - __main__ - INFO - add job7-tf-cnn,submitted on 145
+2019-07-30 09:07:28,526 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-30 09:07:28,526 - __main__ - INFO - add job8-torch-vae,submitted on 110
+2019-07-30 09:07:28,526 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 09:07:28,526 - __main__ - INFO - add job9-tf-cnn,submitted on 545
+2019-07-30 09:07:28,526 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 09:07:28,526 - __main__ - INFO - add job10-torch-vae,submitted on 375
+2019-07-30 09:07:28,526 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-30 09:07:28,526 - __main__ - INFO - add job11-tf-drnn,submitted on 299
+2019-07-30 09:07:28,526 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-30 09:07:28,526 - __main__ - INFO - add job12-torch-vae,submitted on 108
+2019-07-30 09:07:28,526 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-30 09:07:28,526 - __main__ - INFO - add job13-tf-drnn,submitted on 341
+2019-07-30 09:07:28,527 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-30 09:07:28,527 - __main__ - INFO - add job14-tf-drnn,submitted on 27
+2019-07-30 09:07:28,527 - __main__ - INFO - create a torch-vae yaml named job15.yaml
+2019-07-30 09:07:28,527 - __main__ - INFO - add job15-torch-vae,submitted on 594
+2019-07-30 09:07:28,527 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 09:07:28,527 - __main__ - INFO - add job16-tf-drnn,submitted on 104
+2019-07-30 09:07:28,527 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-30 09:07:28,527 - __main__ - INFO - add job17-tf-drnn,submitted on 506
+2019-07-30 09:07:28,527 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-07-30 09:07:28,527 - __main__ - INFO - add job18-torch-vae,submitted on 67
+2019-07-30 09:07:28,527 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 09:07:28,528 - __main__ - INFO - add job19-tf-birnn,submitted on 202
+2019-07-30 09:07:28,528 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 09:07:28,528 - __main__ - INFO - add job20-tf-birnn,submitted on 361
+2019-07-30 09:07:28,528 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:07:35,258 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:07:35,258 - __main__ - INFO - create a new scheduler
+2019-07-30 09:07:35,258 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:07:35,259 - __main__ - INFO - add job1-torch-vae,submitted on 313
+2019-07-30 09:07:35,259 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-30 09:07:35,259 - __main__ - INFO - add job2-torch-lenet,submitted on 448
+2019-07-30 09:07:35,259 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:07:35,259 - __main__ - INFO - add job3-tf-birnn,submitted on 286
+2019-07-30 09:07:35,259 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:07:35,260 - __main__ - INFO - add job4-tf-cnn,submitted on 547
+2019-07-30 09:07:35,260 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-30 09:07:35,260 - __main__ - INFO - add job5-torch-lenet,submitted on 431
+2019-07-30 09:07:35,260 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 09:07:35,260 - __main__ - INFO - add job6-torch-vae,submitted on 489
+2019-07-30 09:07:35,260 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-30 09:07:35,260 - __main__ - INFO - add job7-torch-lenet,submitted on 360
+2019-07-30 09:07:35,261 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 09:07:35,261 - __main__ - INFO - add job8-tf-cnn,submitted on 469
+2019-07-30 09:07:35,261 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 09:07:35,261 - __main__ - INFO - add job9-torch-lenet,submitted on 184
+2019-07-30 09:07:35,261 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 09:07:35,262 - __main__ - INFO - add job10-torch-vae,submitted on 255
+2019-07-30 09:07:35,262 - __main__ - INFO - create a torch-vae yaml named job11.yaml
+2019-07-30 09:07:35,262 - __main__ - INFO - add job11-torch-vae,submitted on 226
+2019-07-30 09:07:35,262 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-30 09:07:35,262 - __main__ - INFO - add job12-torch-vae,submitted on 538
+2019-07-30 09:07:35,262 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 09:07:35,262 - __main__ - INFO - add job13-torch-vae,submitted on 595
+2019-07-30 09:07:35,262 - __main__ - INFO - create a torch-vae yaml named job14.yaml
+2019-07-30 09:07:35,262 - __main__ - INFO - add job14-torch-vae,submitted on 28
+2019-07-30 09:07:35,262 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 09:07:35,262 - __main__ - INFO - add job15-tf-cnn,submitted on 26
+2019-07-30 09:07:35,263 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-07-30 09:07:35,263 - __main__ - INFO - add job16-tf-birnn,submitted on 175
+2019-07-30 09:07:35,263 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-30 09:07:35,263 - __main__ - INFO - add job17-tf-birnn,submitted on 245
+2019-07-30 09:07:35,263 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-07-30 09:07:35,263 - __main__ - INFO - add job18-torch-vae,submitted on 600
+2019-07-30 09:07:35,263 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 09:07:35,263 - __main__ - INFO - add job19-tf-birnn,submitted on 547
+2019-07-30 09:07:35,263 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-30 09:07:35,263 - __main__ - INFO - add job20-tf-drnn,submitted on 102
+2019-07-30 09:07:35,263 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:07:39,870 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:07:39,871 - __main__ - INFO - create a new scheduler
+2019-07-30 09:07:39,871 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-30 09:07:39,871 - __main__ - INFO - add job1-tf-cnn,submitted on 166
+2019-07-30 09:07:39,872 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-30 09:07:39,872 - __main__ - INFO - add job2-torch-lenet,submitted on 264
+2019-07-30 09:07:39,872 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:07:39,872 - __main__ - INFO - add job3-tf-birnn,submitted on 567
+2019-07-30 09:07:39,872 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-30 09:07:39,872 - __main__ - INFO - add job4-torch-vae,submitted on 236
+2019-07-30 09:07:39,872 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-30 09:07:39,872 - __main__ - INFO - add job5-torch-lenet,submitted on 307
+2019-07-30 09:07:39,872 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 09:07:39,874 - __main__ - INFO - add job6-torch-vae,submitted on 138
+2019-07-30 09:07:39,874 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 09:07:39,874 - __main__ - INFO - add job7-tf-birnn,submitted on 493
+2019-07-30 09:07:39,874 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 09:07:39,874 - __main__ - INFO - add job8-tf-cnn,submitted on 261
+2019-07-30 09:07:39,875 - __main__ - INFO - create a tf-birnn yaml named job9.yaml
+2019-07-30 09:07:39,875 - __main__ - INFO - add job9-tf-birnn,submitted on 147
+2019-07-30 09:07:39,875 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-30 09:07:39,875 - __main__ - INFO - add job10-tf-drnn,submitted on 49
+2019-07-30 09:07:39,875 - __main__ - INFO - create a torch-vae yaml named job11.yaml
+2019-07-30 09:07:39,875 - __main__ - INFO - add job11-torch-vae,submitted on 99
+2019-07-30 09:07:39,875 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-30 09:07:39,875 - __main__ - INFO - add job12-tf-drnn,submitted on 263
+2019-07-30 09:07:39,875 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-30 09:07:39,876 - __main__ - INFO - add job13-tf-birnn,submitted on 40
+2019-07-30 09:07:39,876 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-30 09:07:39,876 - __main__ - INFO - add job14-torch-lenet,submitted on 165
+2019-07-30 09:07:39,876 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-30 09:07:39,877 - __main__ - INFO - add job15-tf-birnn,submitted on 254
+2019-07-30 09:07:39,877 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-30 09:07:39,878 - __main__ - INFO - add job16-torch-vae,submitted on 126
+2019-07-30 09:07:39,878 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-30 09:07:39,878 - __main__ - INFO - add job17-tf-drnn,submitted on 251
+2019-07-30 09:07:39,878 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-30 09:07:39,878 - __main__ - INFO - add job18-tf-drnn,submitted on 47
+2019-07-30 09:07:39,878 - __main__ - INFO - create a tf-drnn yaml named job19.yaml
+2019-07-30 09:07:39,879 - __main__ - INFO - add job19-tf-drnn,submitted on 278
+2019-07-30 09:07:39,879 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-07-30 09:07:39,879 - __main__ - INFO - add job20-tf-cnn,submitted on 62
+2019-07-30 09:07:39,879 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:08:44,322 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:08:44,322 - __main__ - INFO - create a new scheduler
+2019-07-30 09:08:44,323 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:08:44,323 - __main__ - INFO - add job1-torch-vae,submitted on 8
+2019-07-30 09:08:44,323 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-30 09:08:44,323 - __main__ - INFO - add job2-torch-lenet,submitted on 583
+2019-07-30 09:08:44,323 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-30 09:08:44,324 - __main__ - INFO - add job3-torch-vae,submitted on 136
+2019-07-30 09:08:44,324 - __main__ - INFO - create a tf-birnn yaml named job4.yaml
+2019-07-30 09:08:44,324 - __main__ - INFO - add job4-tf-birnn,submitted on 504
+2019-07-30 09:08:44,324 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-30 09:08:44,324 - __main__ - INFO - add job5-tf-birnn,submitted on 106
+2019-07-30 09:08:44,324 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-30 09:08:44,324 - __main__ - INFO - add job6-tf-drnn,submitted on 71
+2019-07-30 09:08:44,326 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-30 09:08:44,326 - __main__ - INFO - add job7-tf-cnn,submitted on 472
+2019-07-30 09:08:44,326 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 09:08:44,326 - __main__ - INFO - add job8-tf-cnn,submitted on 583
+2019-07-30 09:08:44,327 - __main__ - INFO - create a tf-birnn yaml named job9.yaml
+2019-07-30 09:08:44,327 - __main__ - INFO - add job9-tf-birnn,submitted on 101
+2019-07-30 09:08:44,327 - __main__ - INFO - create a tf-birnn yaml named job10.yaml
+2019-07-30 09:08:44,327 - __main__ - INFO - add job10-tf-birnn,submitted on 91
+2019-07-30 09:08:44,327 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 09:08:44,327 - __main__ - INFO - add job11-tf-cnn,submitted on 400
+2019-07-30 09:08:44,327 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-30 09:08:44,327 - __main__ - INFO - add job12-tf-drnn,submitted on 159
+2019-07-30 09:08:44,327 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 09:08:44,328 - __main__ - INFO - add job13-torch-vae,submitted on 564
+2019-07-30 09:08:44,328 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-30 09:08:44,328 - __main__ - INFO - add job14-tf-drnn,submitted on 376
+2019-07-30 09:08:44,328 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-30 09:08:44,328 - __main__ - INFO - add job15-tf-birnn,submitted on 182
+2019-07-30 09:08:44,328 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-30 09:08:44,328 - __main__ - INFO - add job16-torch-vae,submitted on 37
+2019-07-30 09:08:44,328 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 09:08:44,328 - __main__ - INFO - add job17-tf-cnn,submitted on 222
+2019-07-30 09:08:44,329 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 09:08:44,329 - __main__ - INFO - add job18-tf-cnn,submitted on 457
+2019-07-30 09:08:44,329 - __main__ - INFO - create a tf-cnn yaml named job19.yaml
+2019-07-30 09:08:44,329 - __main__ - INFO - add job19-tf-cnn,submitted on 285
+2019-07-30 09:08:44,329 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 09:08:44,329 - __main__ - INFO - add job20-tf-birnn,submitted on 52
+2019-07-30 09:08:44,329 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:12:54,756 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:12:54,757 - __main__ - INFO - create a new scheduler
+2019-07-30 09:12:54,758 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:12:54,758 - __main__ - INFO - add job1-torch-vae,submitted on 569
+2019-07-30 09:12:54,758 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-30 09:12:54,758 - __main__ - INFO - add job2-torch-vae,submitted on 78
+2019-07-30 09:12:54,758 - __main__ - INFO - create a tf-cnn yaml named job3.yaml
+2019-07-30 09:12:54,758 - __main__ - INFO - add job3-tf-cnn,submitted on 369
+2019-07-30 09:12:54,758 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-30 09:12:54,758 - __main__ - INFO - add job4-torch-lenet,submitted on 350
+2019-07-30 09:12:54,759 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-30 09:12:54,759 - __main__ - INFO - add job5-tf-birnn,submitted on 374
+2019-07-30 09:12:54,759 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 09:12:54,759 - __main__ - INFO - add job6-torch-vae,submitted on 114
+2019-07-30 09:12:54,759 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 09:12:54,759 - __main__ - INFO - add job7-torch-vae,submitted on 581
+2019-07-30 09:12:54,759 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-30 09:12:54,759 - __main__ - INFO - add job8-tf-birnn,submitted on 533
+2019-07-30 09:12:54,759 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-30 09:12:54,759 - __main__ - INFO - add job9-tf-drnn,submitted on 242
+2019-07-30 09:12:54,759 - __main__ - INFO - create a tf-cnn yaml named job10.yaml
+2019-07-30 09:12:54,760 - __main__ - INFO - add job10-tf-cnn,submitted on 469
+2019-07-30 09:12:54,760 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-07-30 09:12:54,760 - __main__ - INFO - add job11-tf-birnn,submitted on 170
+2019-07-30 09:12:54,760 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-30 09:12:54,760 - __main__ - INFO - add job12-tf-drnn,submitted on 315
+2019-07-30 09:12:54,760 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-30 09:12:54,760 - __main__ - INFO - add job13-tf-birnn,submitted on 449
+2019-07-30 09:12:54,761 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-30 09:12:54,761 - __main__ - INFO - add job14-torch-lenet,submitted on 423
+2019-07-30 09:12:54,761 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-30 09:12:54,761 - __main__ - INFO - add job15-tf-drnn,submitted on 505
+2019-07-30 09:12:54,761 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 09:12:54,761 - __main__ - INFO - add job16-tf-drnn,submitted on 458
+2019-07-30 09:12:54,761 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-30 09:12:54,762 - __main__ - INFO - add job17-tf-birnn,submitted on 130
+2019-07-30 09:12:54,762 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-30 09:12:54,762 - __main__ - INFO - add job18-tf-drnn,submitted on 11
+2019-07-30 09:12:54,762 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 09:12:54,762 - __main__ - INFO - add job19-torch-vae,submitted on 513
+2019-07-30 09:12:54,762 - __main__ - INFO - create a torch-vae yaml named job20.yaml
+2019-07-30 09:12:54,762 - __main__ - INFO - add job20-torch-vae,submitted on 350
+2019-07-30 09:12:54,762 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:13:15,671 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:13:15,672 - __main__ - INFO - create a new scheduler
+2019-07-30 09:13:15,672 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-30 09:13:15,672 - __main__ - INFO - add job1-torch-lenet,submitted on 242
+2019-07-30 09:13:15,672 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-30 09:13:15,672 - __main__ - INFO - add job2-tf-cnn,submitted on 115
+2019-07-30 09:13:15,673 - __main__ - INFO - create a tf-cnn yaml named job3.yaml
+2019-07-30 09:13:15,673 - __main__ - INFO - add job3-tf-cnn,submitted on 79
+2019-07-30 09:13:15,673 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-30 09:13:15,673 - __main__ - INFO - add job4-tf-drnn,submitted on 225
+2019-07-30 09:13:15,673 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 09:13:15,673 - __main__ - INFO - add job5-torch-vae,submitted on 586
+2019-07-30 09:13:15,673 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-30 09:13:15,673 - __main__ - INFO - add job6-tf-drnn,submitted on 428
+2019-07-30 09:13:15,674 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 09:13:15,674 - __main__ - INFO - add job7-torch-vae,submitted on 291
+2019-07-30 09:13:15,674 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-30 09:13:15,674 - __main__ - INFO - add job8-tf-drnn,submitted on 274
+2019-07-30 09:13:15,674 - __main__ - INFO - create a torch-vae yaml named job9.yaml
+2019-07-30 09:13:15,674 - __main__ - INFO - add job9-torch-vae,submitted on 207
+2019-07-30 09:13:15,674 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-30 09:13:15,674 - __main__ - INFO - add job10-tf-drnn,submitted on 466
+2019-07-30 09:13:15,674 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-30 09:13:15,674 - __main__ - INFO - add job11-torch-lenet,submitted on 582
+2019-07-30 09:13:15,675 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-30 09:13:15,675 - __main__ - INFO - add job12-tf-drnn,submitted on 289
+2019-07-30 09:13:15,675 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-30 09:13:15,675 - __main__ - INFO - add job13-tf-birnn,submitted on 326
+2019-07-30 09:13:15,675 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-30 09:13:15,675 - __main__ - INFO - add job14-tf-drnn,submitted on 54
+2019-07-30 09:13:15,675 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 09:13:15,675 - __main__ - INFO - add job15-tf-cnn,submitted on 356
+2019-07-30 09:13:15,675 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-07-30 09:13:15,675 - __main__ - INFO - add job16-tf-birnn,submitted on 561
+2019-07-30 09:13:15,676 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 09:13:15,676 - __main__ - INFO - add job17-tf-cnn,submitted on 49
+2019-07-30 09:13:15,676 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 09:13:15,676 - __main__ - INFO - add job18-tf-cnn,submitted on 160
+2019-07-30 09:13:15,676 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 09:13:15,676 - __main__ - INFO - add job19-torch-vae,submitted on 2
+2019-07-30 09:13:15,676 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-30 09:13:15,676 - __main__ - INFO - add job20-tf-drnn,submitted on 382
+2019-07-30 09:13:15,677 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:13:41,345 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:13:41,346 - __main__ - INFO - create a new scheduler
+2019-07-30 09:13:41,346 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-30 09:13:41,346 - __main__ - INFO - add job1-tf-birnn,submitted on 173
+2019-07-30 09:13:41,347 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 09:13:41,347 - __main__ - INFO - add job2-tf-drnn,submitted on 1
+2019-07-30 09:13:41,347 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:13:41,347 - __main__ - INFO - add job3-tf-birnn,submitted on 147
+2019-07-30 09:13:41,347 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:13:41,347 - __main__ - INFO - add job4-tf-cnn,submitted on 589
+2019-07-30 09:13:41,348 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-30 09:13:41,348 - __main__ - INFO - add job5-tf-drnn,submitted on 124
+2019-07-30 09:13:41,348 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-30 09:13:41,348 - __main__ - INFO - add job6-tf-drnn,submitted on 553
+2019-07-30 09:13:41,348 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 09:13:41,348 - __main__ - INFO - add job7-tf-birnn,submitted on 442
+2019-07-30 09:13:41,350 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-30 09:13:41,350 - __main__ - INFO - add job8-torch-vae,submitted on 367
+2019-07-30 09:13:41,350 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 09:13:41,350 - __main__ - INFO - add job9-tf-cnn,submitted on 38
+2019-07-30 09:13:41,351 - __main__ - INFO - create a tf-cnn yaml named job10.yaml
+2019-07-30 09:13:41,351 - __main__ - INFO - add job10-tf-cnn,submitted on 226
+2019-07-30 09:13:41,351 - __main__ - INFO - create a torch-vae yaml named job11.yaml
+2019-07-30 09:13:41,351 - __main__ - INFO - add job11-torch-vae,submitted on 51
+2019-07-30 09:13:41,351 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-30 09:13:41,351 - __main__ - INFO - add job12-tf-drnn,submitted on 120
+2019-07-30 09:13:41,351 - __main__ - INFO - create a tf-cnn yaml named job13.yaml
+2019-07-30 09:13:41,351 - __main__ - INFO - add job13-tf-cnn,submitted on 154
+2019-07-30 09:13:41,351 - __main__ - INFO - create a torch-vae yaml named job14.yaml
+2019-07-30 09:13:41,351 - __main__ - INFO - add job14-torch-vae,submitted on 396
+2019-07-30 09:13:41,351 - __main__ - INFO - create a torch-lenet yaml named job15.yaml
+2019-07-30 09:13:41,352 - __main__ - INFO - add job15-torch-lenet,submitted on 481
+2019-07-30 09:13:41,352 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 09:13:41,352 - __main__ - INFO - add job16-tf-drnn,submitted on 92
+2019-07-30 09:13:41,352 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 09:13:41,352 - __main__ - INFO - add job17-tf-cnn,submitted on 403
+2019-07-30 09:13:41,352 - __main__ - INFO - create a torch-lenet yaml named job18.yaml
+2019-07-30 09:13:41,353 - __main__ - INFO - add job18-torch-lenet,submitted on 95
+2019-07-30 09:13:41,353 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 09:13:41,353 - __main__ - INFO - add job19-tf-birnn,submitted on 120
+2019-07-30 09:13:41,354 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 09:13:41,354 - __main__ - INFO - add job20-torch-lenet,submitted on 369
+2019-07-30 09:13:41,354 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:14:00,311 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:14:00,312 - __main__ - INFO - create a new scheduler
+2019-07-30 09:14:00,312 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:14:00,312 - __main__ - INFO - add job1-torch-vae,submitted on 385
+2019-07-30 09:14:00,312 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-30 09:14:00,312 - __main__ - INFO - add job2-torch-vae,submitted on 574
+2019-07-30 09:14:00,312 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:14:00,312 - __main__ - INFO - add job3-tf-birnn,submitted on 67
+2019-07-30 09:14:00,313 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:14:00,313 - __main__ - INFO - add job4-tf-cnn,submitted on 165
+2019-07-30 09:14:00,313 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 09:14:00,313 - __main__ - INFO - add job5-torch-vae,submitted on 1
+2019-07-30 09:14:00,313 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 09:14:00,314 - __main__ - INFO - add job6-torch-vae,submitted on 565
+2019-07-30 09:14:00,314 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 09:14:00,314 - __main__ - INFO - add job7-torch-vae,submitted on 3
+2019-07-30 09:14:00,314 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 09:14:00,314 - __main__ - INFO - add job8-tf-cnn,submitted on 290
+2019-07-30 09:14:00,314 - __main__ - INFO - create a torch-vae yaml named job9.yaml
+2019-07-30 09:14:00,314 - __main__ - INFO - add job9-torch-vae,submitted on 138
+2019-07-30 09:14:00,314 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 09:14:00,314 - __main__ - INFO - add job10-torch-vae,submitted on 216
+2019-07-30 09:14:00,314 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 09:14:00,315 - __main__ - INFO - add job11-tf-cnn,submitted on 32
+2019-07-30 09:14:00,315 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-30 09:14:00,315 - __main__ - INFO - add job12-tf-drnn,submitted on 258
+2019-07-30 09:14:00,315 - __main__ - INFO - create a tf-cnn yaml named job13.yaml
+2019-07-30 09:14:00,315 - __main__ - INFO - add job13-tf-cnn,submitted on 465
+2019-07-30 09:14:00,315 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-30 09:14:00,315 - __main__ - INFO - add job14-tf-drnn,submitted on 183
+2019-07-30 09:14:00,315 - __main__ - INFO - create a torch-vae yaml named job15.yaml
+2019-07-30 09:14:00,315 - __main__ - INFO - add job15-torch-vae,submitted on 115
+2019-07-30 09:14:00,315 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 09:14:00,315 - __main__ - INFO - add job16-tf-drnn,submitted on 240
+2019-07-30 09:14:00,316 - __main__ - INFO - create a torch-vae yaml named job17.yaml
+2019-07-30 09:14:00,316 - __main__ - INFO - add job17-torch-vae,submitted on 345
+2019-07-30 09:14:00,316 - __main__ - INFO - create a torch-lenet yaml named job18.yaml
+2019-07-30 09:14:00,316 - __main__ - INFO - add job18-torch-lenet,submitted on 478
+2019-07-30 09:14:00,316 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 09:14:00,316 - __main__ - INFO - add job19-torch-vae,submitted on 145
+2019-07-30 09:14:00,316 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 09:14:00,316 - __main__ - INFO - add job20-torch-lenet,submitted on 364
+2019-07-30 09:14:00,316 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:14:07,166 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:14:07,166 - __main__ - INFO - create a new scheduler
+2019-07-30 09:14:07,166 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-30 09:14:07,166 - __main__ - INFO - add job1-torch-lenet,submitted on 43
+2019-07-30 09:14:07,166 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-30 09:14:07,167 - __main__ - INFO - add job2-torch-vae,submitted on 376
+2019-07-30 09:14:07,167 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:14:07,167 - __main__ - INFO - add job3-tf-birnn,submitted on 383
+2019-07-30 09:14:07,167 - __main__ - INFO - create a tf-birnn yaml named job4.yaml
+2019-07-30 09:14:07,167 - __main__ - INFO - add job4-tf-birnn,submitted on 69
+2019-07-30 09:14:07,167 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 09:14:07,167 - __main__ - INFO - add job5-torch-vae,submitted on 477
+2019-07-30 09:14:07,167 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-30 09:14:07,168 - __main__ - INFO - add job6-tf-drnn,submitted on 260
+2019-07-30 09:14:07,168 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 09:14:07,168 - __main__ - INFO - add job7-tf-birnn,submitted on 83
+2019-07-30 09:14:07,168 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-30 09:14:07,168 - __main__ - INFO - add job8-torch-lenet,submitted on 348
+2019-07-30 09:14:07,168 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-30 09:14:07,168 - __main__ - INFO - add job9-tf-drnn,submitted on 331
+2019-07-30 09:14:07,168 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 09:14:07,168 - __main__ - INFO - add job10-torch-lenet,submitted on 40
+2019-07-30 09:14:07,168 - __main__ - INFO - create a torch-vae yaml named job11.yaml
+2019-07-30 09:14:07,168 - __main__ - INFO - add job11-torch-vae,submitted on 392
+2019-07-30 09:14:07,169 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 09:14:07,169 - __main__ - INFO - add job12-tf-birnn,submitted on 58
+2019-07-30 09:14:07,169 - __main__ - INFO - create a torch-lenet yaml named job13.yaml
+2019-07-30 09:14:07,169 - __main__ - INFO - add job13-torch-lenet,submitted on 450
+2019-07-30 09:14:07,169 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-30 09:14:07,169 - __main__ - INFO - add job14-torch-lenet,submitted on 79
+2019-07-30 09:14:07,169 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-30 09:14:07,169 - __main__ - INFO - add job15-tf-drnn,submitted on 588
+2019-07-30 09:14:07,169 - __main__ - INFO - create a tf-cnn yaml named job16.yaml
+2019-07-30 09:14:07,169 - __main__ - INFO - add job16-tf-cnn,submitted on 40
+2019-07-30 09:14:07,170 - __main__ - INFO - create a torch-lenet yaml named job17.yaml
+2019-07-30 09:14:07,170 - __main__ - INFO - add job17-torch-lenet,submitted on 45
+2019-07-30 09:14:07,170 - __main__ - INFO - create a tf-birnn yaml named job18.yaml
+2019-07-30 09:14:07,170 - __main__ - INFO - add job18-tf-birnn,submitted on 54
+2019-07-30 09:14:07,170 - __main__ - INFO - create a torch-lenet yaml named job19.yaml
+2019-07-30 09:14:07,170 - __main__ - INFO - add job19-torch-lenet,submitted on 496
+2019-07-30 09:14:07,170 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 09:14:07,170 - __main__ - INFO - add job20-torch-lenet,submitted on 253
+2019-07-30 09:14:07,170 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:14:17,472 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:14:17,472 - __main__ - INFO - create a new scheduler
+2019-07-30 09:14:17,473 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:14:17,474 - __main__ - INFO - add job1-torch-vae,submitted on 93
+2019-07-30 09:14:17,474 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-30 09:14:17,474 - __main__ - INFO - add job2-tf-birnn,submitted on 286
+2019-07-30 09:14:17,474 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-30 09:14:17,474 - __main__ - INFO - add job3-torch-vae,submitted on 342
+2019-07-30 09:14:17,475 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-30 09:14:17,475 - __main__ - INFO - add job4-torch-lenet,submitted on 301
+2019-07-30 09:14:17,475 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 09:14:17,475 - __main__ - INFO - add job5-torch-vae,submitted on 78
+2019-07-30 09:14:17,475 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 09:14:17,476 - __main__ - INFO - add job6-torch-vae,submitted on 527
+2019-07-30 09:14:17,476 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 09:14:17,476 - __main__ - INFO - add job7-tf-birnn,submitted on 188
+2019-07-30 09:14:17,476 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-30 09:14:17,476 - __main__ - INFO - add job8-tf-drnn,submitted on 145
+2019-07-30 09:14:17,476 - __main__ - INFO - create a tf-birnn yaml named job9.yaml
+2019-07-30 09:14:17,476 - __main__ - INFO - add job9-tf-birnn,submitted on 188
+2019-07-30 09:14:17,476 - __main__ - INFO - create a tf-birnn yaml named job10.yaml
+2019-07-30 09:14:17,477 - __main__ - INFO - add job10-tf-birnn,submitted on 14
+2019-07-30 09:14:17,477 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-30 09:14:17,477 - __main__ - INFO - add job11-torch-lenet,submitted on 72
+2019-07-30 09:14:17,477 - __main__ - INFO - create a torch-lenet yaml named job12.yaml
+2019-07-30 09:14:17,477 - __main__ - INFO - add job12-torch-lenet,submitted on 211
+2019-07-30 09:14:17,477 - __main__ - INFO - create a torch-lenet yaml named job13.yaml
+2019-07-30 09:14:17,477 - __main__ - INFO - add job13-torch-lenet,submitted on 396
+2019-07-30 09:14:17,477 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-30 09:14:17,478 - __main__ - INFO - add job14-tf-cnn,submitted on 330
+2019-07-30 09:14:17,478 - __main__ - INFO - create a torch-lenet yaml named job15.yaml
+2019-07-30 09:14:17,478 - __main__ - INFO - add job15-torch-lenet,submitted on 530
+2019-07-30 09:14:17,478 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-30 09:14:17,478 - __main__ - INFO - add job16-torch-vae,submitted on 94
+2019-07-30 09:14:17,478 - __main__ - INFO - create a torch-vae yaml named job17.yaml
+2019-07-30 09:14:17,479 - __main__ - INFO - add job17-torch-vae,submitted on 566
+2019-07-30 09:14:17,479 - __main__ - INFO - create a tf-birnn yaml named job18.yaml
+2019-07-30 09:14:17,479 - __main__ - INFO - add job18-tf-birnn,submitted on 447
+2019-07-30 09:14:17,479 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 09:14:17,479 - __main__ - INFO - add job19-tf-birnn,submitted on 249
+2019-07-30 09:14:17,479 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 09:14:17,480 - __main__ - INFO - add job20-tf-birnn,submitted on 446
+2019-07-30 09:14:17,480 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:14:40,931 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:14:40,932 - __main__ - INFO - create a new scheduler
+2019-07-30 09:14:40,932 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-30 09:14:40,932 - __main__ - INFO - add job1-torch-lenet,submitted on 320
+2019-07-30 09:14:40,932 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 09:14:40,933 - __main__ - INFO - add job2-tf-drnn,submitted on 325
+2019-07-30 09:14:40,933 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:14:40,933 - __main__ - INFO - add job3-tf-birnn,submitted on 142
+2019-07-30 09:14:40,934 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-30 09:14:40,934 - __main__ - INFO - add job4-torch-lenet,submitted on 125
+2019-07-30 09:14:40,934 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-30 09:14:40,934 - __main__ - INFO - add job5-tf-cnn,submitted on 296
+2019-07-30 09:14:40,934 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-30 09:14:40,934 - __main__ - INFO - add job6-tf-birnn,submitted on 329
+2019-07-30 09:14:40,934 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-30 09:14:40,934 - __main__ - INFO - add job7-tf-drnn,submitted on 79
+2019-07-30 09:14:40,934 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-30 09:14:40,934 - __main__ - INFO - add job8-torch-lenet,submitted on 223
+2019-07-30 09:14:40,934 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 09:14:40,934 - __main__ - INFO - add job9-tf-cnn,submitted on 572
+2019-07-30 09:14:40,935 - __main__ - INFO - create a tf-birnn yaml named job10.yaml
+2019-07-30 09:14:40,935 - __main__ - INFO - add job10-tf-birnn,submitted on 387
+2019-07-30 09:14:40,935 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-30 09:14:40,935 - __main__ - INFO - add job11-torch-lenet,submitted on 134
+2019-07-30 09:14:40,935 - __main__ - INFO - create a tf-cnn yaml named job12.yaml
+2019-07-30 09:14:40,935 - __main__ - INFO - add job12-tf-cnn,submitted on 432
+2019-07-30 09:14:40,935 - __main__ - INFO - create a torch-lenet yaml named job13.yaml
+2019-07-30 09:14:40,935 - __main__ - INFO - add job13-torch-lenet,submitted on 589
+2019-07-30 09:14:40,936 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 09:14:40,936 - __main__ - INFO - add job14-tf-birnn,submitted on 387
+2019-07-30 09:14:40,936 - __main__ - INFO - create a torch-lenet yaml named job15.yaml
+2019-07-30 09:14:40,936 - __main__ - INFO - add job15-torch-lenet,submitted on 86
+2019-07-30 09:14:40,936 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 09:14:40,936 - __main__ - INFO - add job16-torch-lenet,submitted on 306
+2019-07-30 09:14:40,937 - __main__ - INFO - create a torch-vae yaml named job17.yaml
+2019-07-30 09:14:40,937 - __main__ - INFO - add job17-torch-vae,submitted on 389
+2019-07-30 09:14:40,937 - __main__ - INFO - create a tf-birnn yaml named job18.yaml
+2019-07-30 09:14:40,937 - __main__ - INFO - add job18-tf-birnn,submitted on 449
+2019-07-30 09:14:40,937 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 09:14:40,937 - __main__ - INFO - add job19-torch-vae,submitted on 92
+2019-07-30 09:14:40,937 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 09:14:40,937 - __main__ - INFO - add job20-tf-birnn,submitted on 268
+2019-07-30 09:14:40,937 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:14:49,743 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:14:49,744 - __main__ - INFO - create a new scheduler
+2019-07-30 09:14:49,744 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:14:49,744 - __main__ - INFO - add job1-torch-vae,submitted on 77
+2019-07-30 09:14:49,744 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-30 09:14:49,744 - __main__ - INFO - add job2-tf-cnn,submitted on 163
+2019-07-30 09:14:49,744 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 09:14:49,745 - __main__ - INFO - add job3-tf-birnn,submitted on 417
+2019-07-30 09:14:49,745 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-30 09:14:49,745 - __main__ - INFO - add job4-torch-vae,submitted on 119
+2019-07-30 09:14:49,745 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 09:14:49,745 - __main__ - INFO - add job5-torch-vae,submitted on 505
+2019-07-30 09:14:49,745 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 09:14:49,745 - __main__ - INFO - add job6-torch-lenet,submitted on 236
+2019-07-30 09:14:49,745 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 09:14:49,745 - __main__ - INFO - add job7-torch-vae,submitted on 552
+2019-07-30 09:14:49,745 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-30 09:14:49,746 - __main__ - INFO - add job8-tf-drnn,submitted on 314
+2019-07-30 09:14:49,746 - __main__ - INFO - create a torch-vae yaml named job9.yaml
+2019-07-30 09:14:49,746 - __main__ - INFO - add job9-torch-vae,submitted on 442
+2019-07-30 09:14:49,746 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 09:14:49,746 - __main__ - INFO - add job10-torch-lenet,submitted on 560
+2019-07-30 09:14:49,746 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-30 09:14:49,746 - __main__ - INFO - add job11-tf-drnn,submitted on 353
+2019-07-30 09:14:49,746 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 09:14:49,746 - __main__ - INFO - add job12-tf-birnn,submitted on 521
+2019-07-30 09:14:49,746 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-30 09:14:49,746 - __main__ - INFO - add job13-tf-drnn,submitted on 56
+2019-07-30 09:14:49,747 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-30 09:14:49,747 - __main__ - INFO - add job14-torch-lenet,submitted on 462
+2019-07-30 09:14:49,747 - __main__ - INFO - create a torch-vae yaml named job15.yaml
+2019-07-30 09:14:49,747 - __main__ - INFO - add job15-torch-vae,submitted on 541
+2019-07-30 09:14:49,747 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 09:14:49,747 - __main__ - INFO - add job16-torch-lenet,submitted on 99
+2019-07-30 09:14:49,747 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 09:14:49,748 - __main__ - INFO - add job17-tf-cnn,submitted on 1
+2019-07-30 09:14:49,748 - __main__ - INFO - create a tf-birnn yaml named job18.yaml
+2019-07-30 09:14:49,748 - __main__ - INFO - add job18-tf-birnn,submitted on 257
+2019-07-30 09:14:49,748 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 09:14:49,748 - __main__ - INFO - add job19-torch-vae,submitted on 191
+2019-07-30 09:14:49,748 - __main__ - INFO - create a torch-vae yaml named job20.yaml
+2019-07-30 09:14:49,748 - __main__ - INFO - add job20-torch-vae,submitted on 575
+2019-07-30 09:14:49,748 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:15:06,367 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:15:06,368 - __main__ - INFO - create a new scheduler
+2019-07-30 09:15:06,368 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:15:06,368 - __main__ - INFO - add job1-torch-vae,submitted on 185
+2019-07-30 09:15:06,368 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 09:15:06,368 - __main__ - INFO - add job2-tf-drnn,submitted on 52
+2019-07-30 09:15:06,370 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-30 09:15:06,370 - __main__ - INFO - add job3-torch-vae,submitted on 106
+2019-07-30 09:15:06,370 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:15:06,371 - __main__ - INFO - add job4-tf-cnn,submitted on 105
+2019-07-30 09:15:06,371 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 09:15:06,371 - __main__ - INFO - add job5-torch-vae,submitted on 274
+2019-07-30 09:15:06,371 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-30 09:15:06,371 - __main__ - INFO - add job6-tf-birnn,submitted on 594
+2019-07-30 09:15:06,371 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 09:15:06,371 - __main__ - INFO - add job7-tf-birnn,submitted on 79
+2019-07-30 09:15:06,372 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 09:15:06,372 - __main__ - INFO - add job8-tf-cnn,submitted on 450
+2019-07-30 09:15:06,372 - __main__ - INFO - create a torch-vae yaml named job9.yaml
+2019-07-30 09:15:06,372 - __main__ - INFO - add job9-torch-vae,submitted on 47
+2019-07-30 09:15:06,372 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 09:15:06,372 - __main__ - INFO - add job10-torch-vae,submitted on 204
+2019-07-30 09:15:06,372 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-07-30 09:15:06,372 - __main__ - INFO - add job11-tf-birnn,submitted on 555
+2019-07-30 09:15:06,372 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-30 09:15:06,372 - __main__ - INFO - add job12-torch-vae,submitted on 137
+2019-07-30 09:15:06,373 - __main__ - INFO - create a tf-cnn yaml named job13.yaml
+2019-07-30 09:15:06,373 - __main__ - INFO - add job13-tf-cnn,submitted on 454
+2019-07-30 09:15:06,373 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 09:15:06,374 - __main__ - INFO - add job14-tf-birnn,submitted on 409
+2019-07-30 09:15:06,374 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 09:15:06,374 - __main__ - INFO - add job15-tf-cnn,submitted on 567
+2019-07-30 09:15:06,374 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-30 09:15:06,374 - __main__ - INFO - add job16-torch-vae,submitted on 102
+2019-07-30 09:15:06,374 - __main__ - INFO - create a torch-vae yaml named job17.yaml
+2019-07-30 09:15:06,374 - __main__ - INFO - add job17-torch-vae,submitted on 372
+2019-07-30 09:15:06,374 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-30 09:15:06,375 - __main__ - INFO - add job18-tf-drnn,submitted on 364
+2019-07-30 09:15:06,375 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 09:15:06,375 - __main__ - INFO - add job19-torch-vae,submitted on 349
+2019-07-30 09:15:06,375 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 09:15:06,375 - __main__ - INFO - add job20-torch-lenet,submitted on 500
+2019-07-30 09:15:06,375 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:15:10,808 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:15:10,810 - __main__ - INFO - create a new scheduler
+2019-07-30 09:15:10,811 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 09:15:10,811 - __main__ - INFO - add job1-torch-vae,submitted on 561
+2019-07-30 09:15:10,811 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-30 09:15:10,811 - __main__ - INFO - add job2-tf-birnn,submitted on 31
+2019-07-30 09:15:10,812 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-30 09:15:10,812 - __main__ - INFO - add job3-torch-lenet,submitted on 500
+2019-07-30 09:15:10,812 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 09:15:10,812 - __main__ - INFO - add job4-tf-cnn,submitted on 390
+2019-07-30 09:15:10,812 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-30 09:15:10,812 - __main__ - INFO - add job5-tf-birnn,submitted on 256
+2019-07-30 09:15:10,813 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 09:15:10,813 - __main__ - INFO - add job6-torch-vae,submitted on 153
+2019-07-30 09:15:10,813 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-30 09:15:10,813 - __main__ - INFO - add job7-tf-drnn,submitted on 241
+2019-07-30 09:15:10,814 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-30 09:15:10,814 - __main__ - INFO - add job8-tf-birnn,submitted on 405
+2019-07-30 09:15:10,814 - __main__ - INFO - create a tf-birnn yaml named job9.yaml
+2019-07-30 09:15:10,814 - __main__ - INFO - add job9-tf-birnn,submitted on 190
+2019-07-30 09:15:10,814 - __main__ - INFO - create a tf-birnn yaml named job10.yaml
+2019-07-30 09:15:10,814 - __main__ - INFO - add job10-tf-birnn,submitted on 381
+2019-07-30 09:15:10,814 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 09:15:10,814 - __main__ - INFO - add job11-tf-cnn,submitted on 573
+2019-07-30 09:15:10,814 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 09:15:10,815 - __main__ - INFO - add job12-tf-birnn,submitted on 287
+2019-07-30 09:15:10,815 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-30 09:15:10,815 - __main__ - INFO - add job13-tf-birnn,submitted on 108
+2019-07-30 09:15:10,815 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 09:15:10,815 - __main__ - INFO - add job14-tf-birnn,submitted on 424
+2019-07-30 09:15:10,815 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-30 09:15:10,815 - __main__ - INFO - add job15-tf-drnn,submitted on 78
+2019-07-30 09:15:10,815 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-30 09:15:10,815 - __main__ - INFO - add job16-torch-vae,submitted on 266
+2019-07-30 09:15:10,815 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 09:15:10,815 - __main__ - INFO - add job17-tf-cnn,submitted on 327
+2019-07-30 09:15:10,816 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 09:15:10,816 - __main__ - INFO - add job18-tf-cnn,submitted on 288
+2019-07-30 09:15:10,816 - __main__ - INFO - create a torch-lenet yaml named job19.yaml
+2019-07-30 09:15:10,816 - __main__ - INFO - add job19-torch-lenet,submitted on 456
+2019-07-30 09:15:10,816 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-30 09:15:10,816 - __main__ - INFO - add job20-tf-drnn,submitted on 405
+2019-07-30 09:15:10,817 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 09:18:53,549 - __main__ - INFO - delete all previous yamls
+2019-07-30 09:18:53,549 - __main__ - INFO - create a new scheduler
+2019-07-30 09:18:53,550 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-30 09:18:53,550 - __main__ - INFO - add job1-tf-drnn,submitted on 298
+2019-07-30 09:18:53,550 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 09:18:53,550 - __main__ - INFO - add job2-tf-drnn,submitted on 230
+2019-07-30 09:18:53,550 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-30 09:18:53,550 - __main__ - INFO - add job3-tf-drnn,submitted on 200
+2019-07-30 09:18:53,550 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-30 09:18:53,550 - __main__ - INFO - add job4-torch-lenet,submitted on 3
+2019-07-30 09:18:53,551 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-30 09:18:53,551 - __main__ - INFO - add job5-tf-birnn,submitted on 173
+2019-07-30 09:18:53,551 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 09:18:53,551 - __main__ - INFO - add job6-torch-lenet,submitted on 537
+2019-07-30 09:18:53,551 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-30 09:18:53,551 - __main__ - INFO - add job7-tf-cnn,submitted on 273
+2019-07-30 09:18:53,552 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-30 09:18:53,552 - __main__ - INFO - add job8-tf-drnn,submitted on 510
+2019-07-30 09:18:53,552 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 09:18:53,552 - __main__ - INFO - add job9-tf-cnn,submitted on 405
+2019-07-30 09:18:53,552 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-30 09:18:53,552 - __main__ - INFO - add job10-tf-drnn,submitted on 545
+2019-07-30 09:18:53,552 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 09:18:53,554 - __main__ - INFO - add job11-tf-cnn,submitted on 223
+2019-07-30 09:18:53,555 - __main__ - INFO - create a torch-lenet yaml named job12.yaml
+2019-07-30 09:18:53,555 - __main__ - INFO - add job12-torch-lenet,submitted on 197
+2019-07-30 09:18:53,555 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 09:18:53,555 - __main__ - INFO - add job13-torch-vae,submitted on 469
+2019-07-30 09:18:53,555 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 09:18:53,555 - __main__ - INFO - add job14-tf-birnn,submitted on 380
+2019-07-30 09:18:53,556 - __main__ - INFO - create a torch-lenet yaml named job15.yaml
+2019-07-30 09:18:53,556 - __main__ - INFO - add job15-torch-lenet,submitted on 570
+2019-07-30 09:18:53,556 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 09:18:53,556 - __main__ - INFO - add job16-torch-lenet,submitted on 349
+2019-07-30 09:18:53,556 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-30 09:18:53,556 - __main__ - INFO - add job17-tf-birnn,submitted on 470
+2019-07-30 09:18:53,556 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-07-30 09:18:53,556 - __main__ - INFO - add job18-torch-vae,submitted on 81
+2019-07-30 09:18:53,556 - __main__ - INFO - create a tf-cnn yaml named job19.yaml
+2019-07-30 09:18:53,557 - __main__ - INFO - add job19-tf-cnn,submitted on 170
+2019-07-30 09:18:53,557 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-30 09:18:53,557 - __main__ - INFO - add job20-tf-drnn,submitted on 455
+2019-07-30 09:18:53,557 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:02:23,530 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:02:23,531 - __main__ - INFO - create a new scheduler
+2019-07-30 15:02:23,531 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-30 15:02:23,531 - __main__ - INFO - add job1-tf-cnn,submitted on 312
+2019-07-30 15:02:23,531 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-30 15:02:23,531 - __main__ - INFO - add job2-tf-birnn,submitted on 427
+2019-07-30 15:02:23,532 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 15:02:23,532 - __main__ - INFO - add job3-tf-birnn,submitted on 73
+2019-07-30 15:02:23,532 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-30 15:02:23,532 - __main__ - INFO - add job4-tf-drnn,submitted on 29
+2019-07-30 15:02:23,532 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-30 15:02:23,532 - __main__ - INFO - add job5-tf-cnn,submitted on 530
+2019-07-30 15:02:23,532 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-30 15:02:23,532 - __main__ - INFO - add job6-tf-cnn,submitted on 400
+2019-07-30 15:02:23,532 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-30 15:02:23,532 - __main__ - INFO - add job7-torch-lenet,submitted on 540
+2019-07-30 15:02:23,532 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-30 15:02:23,533 - __main__ - INFO - add job8-torch-vae,submitted on 48
+2019-07-30 15:02:23,533 - __main__ - INFO - create a tf-birnn yaml named job9.yaml
+2019-07-30 15:02:23,533 - __main__ - INFO - add job9-tf-birnn,submitted on 574
+2019-07-30 15:02:23,533 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 15:02:23,533 - __main__ - INFO - add job10-torch-vae,submitted on 36
+2019-07-30 15:02:23,533 - __main__ - INFO - create a torch-vae yaml named job11.yaml
+2019-07-30 15:02:23,533 - __main__ - INFO - add job11-torch-vae,submitted on 191
+2019-07-30 15:02:23,534 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-30 15:02:23,534 - __main__ - INFO - add job12-torch-vae,submitted on 134
+2019-07-30 15:02:23,534 - __main__ - INFO - create a tf-cnn yaml named job13.yaml
+2019-07-30 15:02:23,534 - __main__ - INFO - add job13-tf-cnn,submitted on 220
+2019-07-30 15:02:23,534 - __main__ - INFO - create a torch-vae yaml named job14.yaml
+2019-07-30 15:02:23,534 - __main__ - INFO - add job14-torch-vae,submitted on 459
+2019-07-30 15:02:23,534 - __main__ - INFO - create a torch-vae yaml named job15.yaml
+2019-07-30 15:02:23,534 - __main__ - INFO - add job15-torch-vae,submitted on 47
+2019-07-30 15:02:23,534 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-07-30 15:02:23,534 - __main__ - INFO - add job16-tf-birnn,submitted on 166
+2019-07-30 15:02:23,534 - __main__ - INFO - create a torch-vae yaml named job17.yaml
+2019-07-30 15:02:23,535 - __main__ - INFO - add job17-torch-vae,submitted on 515
+2019-07-30 15:02:23,535 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-30 15:02:23,535 - __main__ - INFO - add job18-tf-drnn,submitted on 595
+2019-07-30 15:02:23,535 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 15:02:23,535 - __main__ - INFO - add job19-tf-birnn,submitted on 579
+2019-07-30 15:02:23,535 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 15:02:23,535 - __main__ - INFO - add job20-tf-birnn,submitted on 366
+2019-07-30 15:02:23,535 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:02:54,891 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:02:54,892 - __main__ - INFO - create a new scheduler
+2019-07-30 15:02:54,892 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 15:02:54,892 - __main__ - INFO - add job1-torch-vae,submitted on 165
+2019-07-30 15:02:54,892 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 15:02:54,892 - __main__ - INFO - add job2-tf-drnn,submitted on 476
+2019-07-30 15:02:54,893 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 15:02:54,893 - __main__ - INFO - add job3-tf-birnn,submitted on 436
+2019-07-30 15:02:54,893 - __main__ - INFO - create a tf-birnn yaml named job4.yaml
+2019-07-30 15:02:54,893 - __main__ - INFO - add job4-tf-birnn,submitted on 268
+2019-07-30 15:02:54,893 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 15:02:54,893 - __main__ - INFO - add job5-torch-vae,submitted on 274
+2019-07-30 15:02:54,894 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-30 15:02:54,894 - __main__ - INFO - add job6-tf-birnn,submitted on 338
+2019-07-30 15:02:54,894 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-30 15:02:54,894 - __main__ - INFO - add job7-tf-drnn,submitted on 136
+2019-07-30 15:02:54,894 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-30 15:02:54,894 - __main__ - INFO - add job8-torch-vae,submitted on 351
+2019-07-30 15:02:54,894 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 15:02:54,894 - __main__ - INFO - add job9-torch-lenet,submitted on 517
+2019-07-30 15:02:54,894 - __main__ - INFO - create a tf-cnn yaml named job10.yaml
+2019-07-30 15:02:54,894 - __main__ - INFO - add job10-tf-cnn,submitted on 173
+2019-07-30 15:02:54,894 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-30 15:02:54,894 - __main__ - INFO - add job11-torch-lenet,submitted on 204
+2019-07-30 15:02:54,895 - __main__ - INFO - create a tf-cnn yaml named job12.yaml
+2019-07-30 15:02:54,895 - __main__ - INFO - add job12-tf-cnn,submitted on 46
+2019-07-30 15:02:54,895 - __main__ - INFO - create a torch-lenet yaml named job13.yaml
+2019-07-30 15:02:54,895 - __main__ - INFO - add job13-torch-lenet,submitted on 37
+2019-07-30 15:02:54,895 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-30 15:02:54,895 - __main__ - INFO - add job14-tf-cnn,submitted on 551
+2019-07-30 15:02:54,895 - __main__ - INFO - create a torch-vae yaml named job15.yaml
+2019-07-30 15:02:54,895 - __main__ - INFO - add job15-torch-vae,submitted on 581
+2019-07-30 15:02:54,895 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 15:02:54,895 - __main__ - INFO - add job16-tf-drnn,submitted on 422
+2019-07-30 15:02:54,896 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-30 15:02:54,896 - __main__ - INFO - add job17-tf-birnn,submitted on 271
+2019-07-30 15:02:54,896 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 15:02:54,896 - __main__ - INFO - add job18-tf-cnn,submitted on 319
+2019-07-30 15:02:54,896 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 15:02:54,896 - __main__ - INFO - add job19-torch-vae,submitted on 185
+2019-07-30 15:02:54,896 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-30 15:02:54,896 - __main__ - INFO - add job20-tf-drnn,submitted on 46
+2019-07-30 15:02:54,896 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:03:13,997 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:03:13,998 - __main__ - INFO - create a new scheduler
+2019-07-30 15:03:13,998 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-30 15:03:13,998 - __main__ - INFO - add job1-tf-birnn,submitted on 43
+2019-07-30 15:03:13,998 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-30 15:03:13,999 - __main__ - INFO - add job2-torch-lenet,submitted on 214
+2019-07-30 15:03:13,999 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-30 15:03:13,999 - __main__ - INFO - add job3-tf-drnn,submitted on 485
+2019-07-30 15:03:13,999 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 15:03:13,999 - __main__ - INFO - add job4-tf-cnn,submitted on 168
+2019-07-30 15:03:13,999 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 15:03:13,999 - __main__ - INFO - add job5-torch-vae,submitted on 318
+2019-07-30 15:03:13,999 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-30 15:03:13,999 - __main__ - INFO - add job6-tf-cnn,submitted on 97
+2019-07-30 15:03:13,999 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 15:03:13,999 - __main__ - INFO - add job7-torch-vae,submitted on 287
+2019-07-30 15:03:13,999 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-30 15:03:14,000 - __main__ - INFO - add job8-tf-birnn,submitted on 376
+2019-07-30 15:03:14,000 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 15:03:14,000 - __main__ - INFO - add job9-torch-lenet,submitted on 479
+2019-07-30 15:03:14,000 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 15:03:14,000 - __main__ - INFO - add job10-torch-vae,submitted on 211
+2019-07-30 15:03:14,000 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 15:03:14,000 - __main__ - INFO - add job11-tf-cnn,submitted on 76
+2019-07-30 15:03:14,000 - __main__ - INFO - create a torch-lenet yaml named job12.yaml
+2019-07-30 15:03:14,000 - __main__ - INFO - add job12-torch-lenet,submitted on 500
+2019-07-30 15:03:14,000 - __main__ - INFO - create a tf-cnn yaml named job13.yaml
+2019-07-30 15:03:14,000 - __main__ - INFO - add job13-tf-cnn,submitted on 306
+2019-07-30 15:03:14,002 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 15:03:14,002 - __main__ - INFO - add job14-tf-birnn,submitted on 521
+2019-07-30 15:03:14,002 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 15:03:14,002 - __main__ - INFO - add job15-tf-cnn,submitted on 437
+2019-07-30 15:03:14,002 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-30 15:03:14,003 - __main__ - INFO - add job16-torch-vae,submitted on 233
+2019-07-30 15:03:14,003 - __main__ - INFO - create a torch-lenet yaml named job17.yaml
+2019-07-30 15:03:14,003 - __main__ - INFO - add job17-torch-lenet,submitted on 496
+2019-07-30 15:03:14,003 - __main__ - INFO - create a tf-birnn yaml named job18.yaml
+2019-07-30 15:03:14,003 - __main__ - INFO - add job18-tf-birnn,submitted on 203
+2019-07-30 15:03:14,003 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 15:03:14,003 - __main__ - INFO - add job19-torch-vae,submitted on 153
+2019-07-30 15:03:14,003 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 15:03:14,003 - __main__ - INFO - add job20-tf-birnn,submitted on 288
+2019-07-30 15:03:14,004 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:03:21,078 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:03:21,079 - __main__ - INFO - create a new scheduler
+2019-07-30 15:03:21,079 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-30 15:03:21,080 - __main__ - INFO - add job1-tf-drnn,submitted on 512
+2019-07-30 15:03:21,080 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-30 15:03:21,080 - __main__ - INFO - add job2-tf-cnn,submitted on 126
+2019-07-30 15:03:21,080 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-30 15:03:21,080 - __main__ - INFO - add job3-tf-drnn,submitted on 136
+2019-07-30 15:03:21,082 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-30 15:03:21,082 - __main__ - INFO - add job4-tf-drnn,submitted on 360
+2019-07-30 15:03:21,082 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-30 15:03:21,082 - __main__ - INFO - add job5-tf-drnn,submitted on 495
+2019-07-30 15:03:21,082 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 15:03:21,083 - __main__ - INFO - add job6-torch-lenet,submitted on 228
+2019-07-30 15:03:21,083 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-30 15:03:21,083 - __main__ - INFO - add job7-torch-lenet,submitted on 271
+2019-07-30 15:03:21,083 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-30 15:03:21,083 - __main__ - INFO - add job8-tf-drnn,submitted on 557
+2019-07-30 15:03:21,083 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 15:03:21,083 - __main__ - INFO - add job9-torch-lenet,submitted on 477
+2019-07-30 15:03:21,083 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 15:03:21,084 - __main__ - INFO - add job10-torch-vae,submitted on 372
+2019-07-30 15:03:21,084 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-07-30 15:03:21,084 - __main__ - INFO - add job11-tf-birnn,submitted on 452
+2019-07-30 15:03:21,084 - __main__ - INFO - create a torch-vae yaml named job12.yaml
+2019-07-30 15:03:21,084 - __main__ - INFO - add job12-torch-vae,submitted on 116
+2019-07-30 15:03:21,084 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 15:03:21,084 - __main__ - INFO - add job13-torch-vae,submitted on 339
+2019-07-30 15:03:21,085 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 15:03:21,085 - __main__ - INFO - add job14-tf-birnn,submitted on 88
+2019-07-30 15:03:21,085 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-30 15:03:21,085 - __main__ - INFO - add job15-tf-birnn,submitted on 276
+2019-07-30 15:03:21,086 - __main__ - INFO - create a tf-cnn yaml named job16.yaml
+2019-07-30 15:03:21,086 - __main__ - INFO - add job16-tf-cnn,submitted on 439
+2019-07-30 15:03:21,086 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-30 15:03:21,086 - __main__ - INFO - add job17-tf-birnn,submitted on 163
+2019-07-30 15:03:21,086 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-30 15:03:21,086 - __main__ - INFO - add job18-tf-drnn,submitted on 82
+2019-07-30 15:03:21,086 - __main__ - INFO - create a tf-drnn yaml named job19.yaml
+2019-07-30 15:03:21,086 - __main__ - INFO - add job19-tf-drnn,submitted on 308
+2019-07-30 15:03:21,086 - __main__ - INFO - create a tf-drnn yaml named job20.yaml
+2019-07-30 15:03:21,086 - __main__ - INFO - add job20-tf-drnn,submitted on 180
+2019-07-30 15:03:21,087 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:03:30,733 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:03:30,734 - __main__ - INFO - create a new scheduler
+2019-07-30 15:03:30,734 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-30 15:03:30,734 - __main__ - INFO - add job1-torch-lenet,submitted on 7
+2019-07-30 15:03:30,734 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-30 15:03:30,734 - __main__ - INFO - add job2-torch-lenet,submitted on 459
+2019-07-30 15:03:30,734 - __main__ - INFO - create a tf-cnn yaml named job3.yaml
+2019-07-30 15:03:30,734 - __main__ - INFO - add job3-tf-cnn,submitted on 393
+2019-07-30 15:03:30,734 - __main__ - INFO - create a tf-birnn yaml named job4.yaml
+2019-07-30 15:03:30,735 - __main__ - INFO - add job4-tf-birnn,submitted on 524
+2019-07-30 15:03:30,735 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-30 15:03:30,735 - __main__ - INFO - add job5-tf-drnn,submitted on 63
+2019-07-30 15:03:30,735 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-30 15:03:30,735 - __main__ - INFO - add job6-tf-drnn,submitted on 201
+2019-07-30 15:03:30,735 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 15:03:30,735 - __main__ - INFO - add job7-torch-vae,submitted on 130
+2019-07-30 15:03:30,735 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 15:03:30,735 - __main__ - INFO - add job8-tf-cnn,submitted on 235
+2019-07-30 15:03:30,735 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 15:03:30,735 - __main__ - INFO - add job9-tf-cnn,submitted on 25
+2019-07-30 15:03:30,735 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 15:03:30,736 - __main__ - INFO - add job10-torch-lenet,submitted on 533
+2019-07-30 15:03:30,736 - __main__ - INFO - create a torch-vae yaml named job11.yaml
+2019-07-30 15:03:30,736 - __main__ - INFO - add job11-torch-vae,submitted on 352
+2019-07-30 15:03:30,736 - __main__ - INFO - create a tf-cnn yaml named job12.yaml
+2019-07-30 15:03:30,736 - __main__ - INFO - add job12-tf-cnn,submitted on 437
+2019-07-30 15:03:30,736 - __main__ - INFO - create a tf-cnn yaml named job13.yaml
+2019-07-30 15:03:30,736 - __main__ - INFO - add job13-tf-cnn,submitted on 491
+2019-07-30 15:03:30,736 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-30 15:03:30,736 - __main__ - INFO - add job14-tf-cnn,submitted on 363
+2019-07-30 15:03:30,736 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 15:03:30,736 - __main__ - INFO - add job15-tf-cnn,submitted on 253
+2019-07-30 15:03:30,737 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 15:03:30,737 - __main__ - INFO - add job16-tf-drnn,submitted on 314
+2019-07-30 15:03:30,737 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-30 15:03:30,737 - __main__ - INFO - add job17-tf-drnn,submitted on 430
+2019-07-30 15:03:30,737 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-07-30 15:03:30,737 - __main__ - INFO - add job18-torch-vae,submitted on 490
+2019-07-30 15:03:30,737 - __main__ - INFO - create a torch-lenet yaml named job19.yaml
+2019-07-30 15:03:30,737 - __main__ - INFO - add job19-torch-lenet,submitted on 498
+2019-07-30 15:03:30,737 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-07-30 15:03:30,737 - __main__ - INFO - add job20-tf-cnn,submitted on 599
+2019-07-30 15:03:30,737 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:03:37,298 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:03:37,298 - __main__ - INFO - create a new scheduler
+2019-07-30 15:03:37,299 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 15:03:37,299 - __main__ - INFO - add job1-torch-vae,submitted on 300
+2019-07-30 15:03:37,299 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 15:03:37,299 - __main__ - INFO - add job2-tf-drnn,submitted on 558
+2019-07-30 15:03:37,299 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-30 15:03:37,299 - __main__ - INFO - add job3-torch-lenet,submitted on 88
+2019-07-30 15:03:37,300 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-30 15:03:37,300 - __main__ - INFO - add job4-torch-vae,submitted on 355
+2019-07-30 15:03:37,300 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-07-30 15:03:37,300 - __main__ - INFO - add job5-torch-lenet,submitted on 349
+2019-07-30 15:03:37,300 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 15:03:37,300 - __main__ - INFO - add job6-torch-lenet,submitted on 411
+2019-07-30 15:03:37,300 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 15:03:37,300 - __main__ - INFO - add job7-torch-vae,submitted on 208
+2019-07-30 15:03:37,300 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-07-30 15:03:37,301 - __main__ - INFO - add job8-torch-lenet,submitted on 554
+2019-07-30 15:03:37,301 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-07-30 15:03:37,301 - __main__ - INFO - add job9-tf-drnn,submitted on 565
+2019-07-30 15:03:37,301 - __main__ - INFO - create a tf-birnn yaml named job10.yaml
+2019-07-30 15:03:37,301 - __main__ - INFO - add job10-tf-birnn,submitted on 124
+2019-07-30 15:03:37,301 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-30 15:03:37,301 - __main__ - INFO - add job11-tf-drnn,submitted on 303
+2019-07-30 15:03:37,301 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 15:03:37,301 - __main__ - INFO - add job12-tf-birnn,submitted on 306
+2019-07-30 15:03:37,302 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-30 15:03:37,302 - __main__ - INFO - add job13-tf-birnn,submitted on 248
+2019-07-30 15:03:37,302 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-30 15:03:37,302 - __main__ - INFO - add job14-tf-cnn,submitted on 30
+2019-07-30 15:03:37,302 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-30 15:03:37,302 - __main__ - INFO - add job15-tf-birnn,submitted on 461
+2019-07-30 15:03:37,302 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-07-30 15:03:37,302 - __main__ - INFO - add job16-tf-birnn,submitted on 250
+2019-07-30 15:03:37,302 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-30 15:03:37,302 - __main__ - INFO - add job17-tf-birnn,submitted on 216
+2019-07-30 15:03:37,303 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 15:03:37,303 - __main__ - INFO - add job18-tf-cnn,submitted on 67
+2019-07-30 15:03:37,303 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 15:03:37,303 - __main__ - INFO - add job19-torch-vae,submitted on 359
+2019-07-30 15:03:37,303 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-07-30 15:03:37,303 - __main__ - INFO - add job20-tf-cnn,submitted on 235
+2019-07-30 15:03:37,303 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:03:41,772 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:03:41,773 - __main__ - INFO - create a new scheduler
+2019-07-30 15:03:41,773 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-30 15:03:41,774 - __main__ - INFO - add job1-tf-birnn,submitted on 523
+2019-07-30 15:03:41,774 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-30 15:03:41,774 - __main__ - INFO - add job2-tf-birnn,submitted on 446
+2019-07-30 15:03:41,774 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 15:03:41,774 - __main__ - INFO - add job3-tf-birnn,submitted on 409
+2019-07-30 15:03:41,774 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-30 15:03:41,774 - __main__ - INFO - add job4-torch-vae,submitted on 188
+2019-07-30 15:03:41,775 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-30 15:03:41,775 - __main__ - INFO - add job5-tf-drnn,submitted on 320
+2019-07-30 15:03:41,775 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-07-30 15:03:41,775 - __main__ - INFO - add job6-tf-drnn,submitted on 540
+2019-07-30 15:03:41,775 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-30 15:03:41,775 - __main__ - INFO - add job7-tf-cnn,submitted on 600
+2019-07-30 15:03:41,775 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 15:03:41,775 - __main__ - INFO - add job8-tf-cnn,submitted on 203
+2019-07-30 15:03:41,776 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 15:03:41,776 - __main__ - INFO - add job9-torch-lenet,submitted on 144
+2019-07-30 15:03:41,776 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 15:03:41,776 - __main__ - INFO - add job10-torch-vae,submitted on 448
+2019-07-30 15:03:41,776 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 15:03:41,776 - __main__ - INFO - add job11-tf-cnn,submitted on 388
+2019-07-30 15:03:41,776 - __main__ - INFO - create a tf-cnn yaml named job12.yaml
+2019-07-30 15:03:41,776 - __main__ - INFO - add job12-tf-cnn,submitted on 500
+2019-07-30 15:03:41,776 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-30 15:03:41,777 - __main__ - INFO - add job13-tf-drnn,submitted on 141
+2019-07-30 15:03:41,777 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-30 15:03:41,777 - __main__ - INFO - add job14-tf-cnn,submitted on 553
+2019-07-30 15:03:41,777 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-30 15:03:41,777 - __main__ - INFO - add job15-tf-drnn,submitted on 278
+2019-07-30 15:03:41,777 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 15:03:41,778 - __main__ - INFO - add job16-torch-lenet,submitted on 557
+2019-07-30 15:03:41,778 - __main__ - INFO - create a torch-lenet yaml named job17.yaml
+2019-07-30 15:03:41,778 - __main__ - INFO - add job17-torch-lenet,submitted on 277
+2019-07-30 15:03:41,778 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-07-30 15:03:41,778 - __main__ - INFO - add job18-torch-vae,submitted on 451
+2019-07-30 15:03:41,778 - __main__ - INFO - create a torch-lenet yaml named job19.yaml
+2019-07-30 15:03:41,778 - __main__ - INFO - add job19-torch-lenet,submitted on 78
+2019-07-30 15:03:41,778 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 15:03:41,778 - __main__ - INFO - add job20-torch-lenet,submitted on 254
+2019-07-30 15:03:41,778 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:03:46,507 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:03:46,507 - __main__ - INFO - create a new scheduler
+2019-07-30 15:03:46,507 - __main__ - INFO - create a torch-lenet yaml named job1.yaml
+2019-07-30 15:03:46,508 - __main__ - INFO - add job1-torch-lenet,submitted on 254
+2019-07-30 15:03:46,508 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-07-30 15:03:46,508 - __main__ - INFO - add job2-tf-cnn,submitted on 181
+2019-07-30 15:03:46,508 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-30 15:03:46,508 - __main__ - INFO - add job3-torch-vae,submitted on 378
+2019-07-30 15:03:46,508 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-30 15:03:46,508 - __main__ - INFO - add job4-torch-lenet,submitted on 396
+2019-07-30 15:03:46,509 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-30 15:03:46,510 - __main__ - INFO - add job5-tf-birnn,submitted on 532
+2019-07-30 15:03:46,510 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 15:03:46,510 - __main__ - INFO - add job6-torch-lenet,submitted on 487
+2019-07-30 15:03:46,511 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 15:03:46,511 - __main__ - INFO - add job7-tf-birnn,submitted on 520
+2019-07-30 15:03:46,511 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-30 15:03:46,511 - __main__ - INFO - add job8-torch-vae,submitted on 387
+2019-07-30 15:03:46,511 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 15:03:46,511 - __main__ - INFO - add job9-tf-cnn,submitted on 39
+2019-07-30 15:03:46,511 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 15:03:46,511 - __main__ - INFO - add job10-torch-vae,submitted on 41
+2019-07-30 15:03:46,512 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-30 15:03:46,512 - __main__ - INFO - add job11-tf-drnn,submitted on 69
+2019-07-30 15:03:46,512 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 15:03:46,512 - __main__ - INFO - add job12-tf-birnn,submitted on 97
+2019-07-30 15:03:46,512 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-30 15:03:46,512 - __main__ - INFO - add job13-tf-birnn,submitted on 589
+2019-07-30 15:03:46,512 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 15:03:46,512 - __main__ - INFO - add job14-tf-birnn,submitted on 243
+2019-07-30 15:03:46,512 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 15:03:46,512 - __main__ - INFO - add job15-tf-cnn,submitted on 572
+2019-07-30 15:03:46,513 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 15:03:46,513 - __main__ - INFO - add job16-torch-lenet,submitted on 352
+2019-07-30 15:03:46,513 - __main__ - INFO - create a torch-vae yaml named job17.yaml
+2019-07-30 15:03:46,513 - __main__ - INFO - add job17-torch-vae,submitted on 578
+2019-07-30 15:03:46,514 - __main__ - INFO - create a torch-lenet yaml named job18.yaml
+2019-07-30 15:03:46,514 - __main__ - INFO - add job18-torch-lenet,submitted on 71
+2019-07-30 15:03:46,514 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 15:03:46,514 - __main__ - INFO - add job19-tf-birnn,submitted on 341
+2019-07-30 15:03:46,514 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 15:03:46,514 - __main__ - INFO - add job20-tf-birnn,submitted on 234
+2019-07-30 15:03:46,514 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:03:55,814 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:03:55,814 - __main__ - INFO - create a new scheduler
+2019-07-30 15:03:55,815 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-30 15:03:55,815 - __main__ - INFO - add job1-tf-birnn,submitted on 111
+2019-07-30 15:03:55,815 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 15:03:55,815 - __main__ - INFO - add job2-tf-drnn,submitted on 180
+2019-07-30 15:03:55,816 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-07-30 15:03:55,816 - __main__ - INFO - add job3-torch-vae,submitted on 4
+2019-07-30 15:03:55,816 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-30 15:03:55,816 - __main__ - INFO - add job4-tf-drnn,submitted on 353
+2019-07-30 15:03:55,817 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-30 15:03:55,817 - __main__ - INFO - add job5-tf-drnn,submitted on 491
+2019-07-30 15:03:55,817 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 15:03:55,817 - __main__ - INFO - add job6-torch-lenet,submitted on 183
+2019-07-30 15:03:55,817 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-30 15:03:55,818 - __main__ - INFO - add job7-tf-drnn,submitted on 107
+2019-07-30 15:03:55,818 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-30 15:03:55,818 - __main__ - INFO - add job8-tf-birnn,submitted on 595
+2019-07-30 15:03:55,818 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 15:03:55,818 - __main__ - INFO - add job9-torch-lenet,submitted on 570
+2019-07-30 15:03:55,819 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 15:03:55,819 - __main__ - INFO - add job10-torch-lenet,submitted on 365
+2019-07-30 15:03:55,819 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 15:03:55,819 - __main__ - INFO - add job11-tf-cnn,submitted on 375
+2019-07-30 15:03:55,819 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 15:03:55,820 - __main__ - INFO - add job12-tf-birnn,submitted on 1
+2019-07-30 15:03:55,820 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 15:03:55,820 - __main__ - INFO - add job13-torch-vae,submitted on 144
+2019-07-30 15:03:55,820 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 15:03:55,820 - __main__ - INFO - add job14-tf-birnn,submitted on 403
+2019-07-30 15:03:55,822 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-30 15:03:55,823 - __main__ - INFO - add job15-tf-birnn,submitted on 376
+2019-07-30 15:03:55,823 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-07-30 15:03:55,823 - __main__ - INFO - add job16-tf-drnn,submitted on 183
+2019-07-30 15:03:55,823 - __main__ - INFO - create a torch-lenet yaml named job17.yaml
+2019-07-30 15:03:55,823 - __main__ - INFO - add job17-torch-lenet,submitted on 322
+2019-07-30 15:03:55,823 - __main__ - INFO - create a torch-lenet yaml named job18.yaml
+2019-07-30 15:03:55,823 - __main__ - INFO - add job18-torch-lenet,submitted on 14
+2019-07-30 15:03:55,823 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 15:03:55,823 - __main__ - INFO - add job19-torch-vae,submitted on 256
+2019-07-30 15:03:55,823 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-07-30 15:03:55,823 - __main__ - INFO - add job20-tf-cnn,submitted on 321
+2019-07-30 15:03:55,824 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:04:01,096 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:04:01,096 - __main__ - INFO - create a new scheduler
+2019-07-30 15:04:01,097 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-30 15:04:01,097 - __main__ - INFO - add job1-tf-cnn,submitted on 183
+2019-07-30 15:04:01,097 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-07-30 15:04:01,097 - __main__ - INFO - add job2-torch-vae,submitted on 283
+2019-07-30 15:04:01,098 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-30 15:04:01,098 - __main__ - INFO - add job3-tf-drnn,submitted on 158
+2019-07-30 15:04:01,098 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-30 15:04:01,098 - __main__ - INFO - add job4-tf-drnn,submitted on 290
+2019-07-30 15:04:01,098 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-30 15:04:01,098 - __main__ - INFO - add job5-tf-birnn,submitted on 552
+2019-07-30 15:04:01,098 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-30 15:04:01,098 - __main__ - INFO - add job6-tf-cnn,submitted on 170
+2019-07-30 15:04:01,099 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-07-30 15:04:01,099 - __main__ - INFO - add job7-tf-birnn,submitted on 549
+2019-07-30 15:04:01,099 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-30 15:04:01,099 - __main__ - INFO - add job8-tf-birnn,submitted on 239
+2019-07-30 15:04:01,099 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 15:04:01,099 - __main__ - INFO - add job9-tf-cnn,submitted on 255
+2019-07-30 15:04:01,099 - __main__ - INFO - create a tf-drnn yaml named job10.yaml
+2019-07-30 15:04:01,100 - __main__ - INFO - add job10-tf-drnn,submitted on 274
+2019-07-30 15:04:01,100 - __main__ - INFO - create a tf-cnn yaml named job11.yaml
+2019-07-30 15:04:01,100 - __main__ - INFO - add job11-tf-cnn,submitted on 390
+2019-07-30 15:04:01,100 - __main__ - INFO - create a torch-lenet yaml named job12.yaml
+2019-07-30 15:04:01,100 - __main__ - INFO - add job12-torch-lenet,submitted on 584
+2019-07-30 15:04:01,100 - __main__ - INFO - create a tf-cnn yaml named job13.yaml
+2019-07-30 15:04:01,100 - __main__ - INFO - add job13-tf-cnn,submitted on 592
+2019-07-30 15:04:01,100 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-07-30 15:04:01,100 - __main__ - INFO - add job14-torch-lenet,submitted on 447
+2019-07-30 15:04:01,102 - __main__ - INFO - create a tf-birnn yaml named job15.yaml
+2019-07-30 15:04:01,102 - __main__ - INFO - add job15-tf-birnn,submitted on 474
+2019-07-30 15:04:01,102 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-07-30 15:04:01,103 - __main__ - INFO - add job16-tf-birnn,submitted on 548
+2019-07-30 15:04:01,103 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 15:04:01,103 - __main__ - INFO - add job17-tf-cnn,submitted on 398
+2019-07-30 15:04:01,103 - __main__ - INFO - create a tf-drnn yaml named job18.yaml
+2019-07-30 15:04:01,103 - __main__ - INFO - add job18-tf-drnn,submitted on 194
+2019-07-30 15:04:01,103 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 15:04:01,103 - __main__ - INFO - add job19-torch-vae,submitted on 237
+2019-07-30 15:04:01,104 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 15:04:01,104 - __main__ - INFO - add job20-torch-lenet,submitted on 305
+2019-07-30 15:04:01,104 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 15:04:05,976 - __main__ - INFO - delete all previous yamls
+2019-07-30 15:04:05,976 - __main__ - INFO - create a new scheduler
+2019-07-30 15:04:05,977 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-07-30 15:04:05,977 - __main__ - INFO - add job1-tf-drnn,submitted on 92
+2019-07-30 15:04:05,977 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 15:04:05,977 - __main__ - INFO - add job2-tf-drnn,submitted on 311
+2019-07-30 15:04:05,977 - __main__ - INFO - create a tf-drnn yaml named job3.yaml
+2019-07-30 15:04:05,977 - __main__ - INFO - add job3-tf-drnn,submitted on 448
+2019-07-30 15:04:05,977 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-07-30 15:04:05,977 - __main__ - INFO - add job4-torch-vae,submitted on 145
+2019-07-30 15:04:05,978 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-07-30 15:04:05,978 - __main__ - INFO - add job5-torch-vae,submitted on 391
+2019-07-30 15:04:05,978 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 15:04:05,978 - __main__ - INFO - add job6-torch-vae,submitted on 417
+2019-07-30 15:04:05,978 - __main__ - INFO - create a tf-cnn yaml named job7.yaml
+2019-07-30 15:04:05,978 - __main__ - INFO - add job7-tf-cnn,submitted on 586
+2019-07-30 15:04:05,978 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-30 15:04:05,978 - __main__ - INFO - add job8-torch-vae,submitted on 215
+2019-07-30 15:04:05,978 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 15:04:05,978 - __main__ - INFO - add job9-torch-lenet,submitted on 143
+2019-07-30 15:04:05,978 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 15:04:05,978 - __main__ - INFO - add job10-torch-lenet,submitted on 280
+2019-07-30 15:04:05,978 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-07-30 15:04:05,979 - __main__ - INFO - add job11-tf-birnn,submitted on 202
+2019-07-30 15:04:05,979 - __main__ - INFO - create a torch-lenet yaml named job12.yaml
+2019-07-30 15:04:05,979 - __main__ - INFO - add job12-torch-lenet,submitted on 245
+2019-07-30 15:04:05,979 - __main__ - INFO - create a tf-birnn yaml named job13.yaml
+2019-07-30 15:04:05,979 - __main__ - INFO - add job13-tf-birnn,submitted on 551
+2019-07-30 15:04:05,979 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-30 15:04:05,979 - __main__ - INFO - add job14-tf-drnn,submitted on 204
+2019-07-30 15:04:05,979 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 15:04:05,979 - __main__ - INFO - add job15-tf-cnn,submitted on 98
+2019-07-30 15:04:05,979 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-07-30 15:04:05,979 - __main__ - INFO - add job16-tf-birnn,submitted on 75
+2019-07-30 15:04:05,979 - __main__ - INFO - create a tf-drnn yaml named job17.yaml
+2019-07-30 15:04:05,980 - __main__ - INFO - add job17-tf-drnn,submitted on 319
+2019-07-30 15:04:05,980 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-07-30 15:04:05,980 - __main__ - INFO - add job18-torch-vae,submitted on 399
+2019-07-30 15:04:05,980 - __main__ - INFO - create a tf-cnn yaml named job19.yaml
+2019-07-30 15:04:05,980 - __main__ - INFO - add job19-tf-cnn,submitted on 260
+2019-07-30 15:04:05,980 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 15:04:05,980 - __main__ - INFO - add job20-torch-lenet,submitted on 594
+2019-07-30 15:04:05,980 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 18:01:16,777 - __main__ - INFO - delete all previous yamls
+2019-07-30 18:01:16,778 - __main__ - INFO - create a new scheduler
+2019-07-30 18:01:16,778 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 18:01:16,778 - __main__ - INFO - add job1-torch-vae,submitted on 41
+2019-07-30 18:01:16,779 - __main__ - INFO - create a torch-lenet yaml named job2.yaml
+2019-07-30 18:01:16,779 - __main__ - INFO - add job2-torch-lenet,submitted on 4
+2019-07-30 18:01:16,779 - __main__ - INFO - create a torch-lenet yaml named job3.yaml
+2019-07-30 18:01:16,779 - __main__ - INFO - add job3-torch-lenet,submitted on 169
+2019-07-30 18:01:16,779 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 18:01:16,779 - __main__ - INFO - add job4-tf-cnn,submitted on 165
+2019-07-30 18:01:16,779 - __main__ - INFO - create a tf-birnn yaml named job5.yaml
+2019-07-30 18:01:16,780 - __main__ - INFO - add job5-tf-birnn,submitted on 186
+2019-07-30 18:01:16,780 - __main__ - INFO - create a torch-vae yaml named job6.yaml
+2019-07-30 18:01:16,780 - __main__ - INFO - add job6-torch-vae,submitted on 217
+2019-07-30 18:01:16,780 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 18:01:16,780 - __main__ - INFO - add job7-torch-vae,submitted on 232
+2019-07-30 18:01:16,780 - __main__ - INFO - create a tf-drnn yaml named job8.yaml
+2019-07-30 18:01:16,780 - __main__ - INFO - add job8-tf-drnn,submitted on 285
+2019-07-30 18:01:16,781 - __main__ - INFO - create a tf-cnn yaml named job9.yaml
+2019-07-30 18:01:16,781 - __main__ - INFO - add job9-tf-cnn,submitted on 25
+2019-07-30 18:01:16,781 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 18:01:16,781 - __main__ - INFO - add job10-torch-vae,submitted on 205
+2019-07-30 18:01:16,781 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-30 18:01:16,781 - __main__ - INFO - add job11-tf-drnn,submitted on 433
+2019-07-30 18:01:16,781 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 18:01:16,782 - __main__ - INFO - add job12-tf-birnn,submitted on 129
+2019-07-30 18:01:16,782 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-30 18:01:16,782 - __main__ - INFO - add job13-tf-drnn,submitted on 317
+2019-07-30 18:01:16,782 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-30 18:01:16,782 - __main__ - INFO - add job14-tf-drnn,submitted on 364
+2019-07-30 18:01:16,782 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 18:01:16,782 - __main__ - INFO - add job15-tf-cnn,submitted on 53
+2019-07-30 18:01:16,783 - __main__ - INFO - create a torch-vae yaml named job16.yaml
+2019-07-30 18:01:16,783 - __main__ - INFO - add job16-torch-vae,submitted on 372
+2019-07-30 18:01:16,783 - __main__ - INFO - create a torch-lenet yaml named job17.yaml
+2019-07-30 18:01:16,783 - __main__ - INFO - add job17-torch-lenet,submitted on 113
+2019-07-30 18:01:16,783 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 18:01:16,783 - __main__ - INFO - add job18-tf-cnn,submitted on 110
+2019-07-30 18:01:16,783 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 18:01:16,784 - __main__ - INFO - add job19-tf-birnn,submitted on 347
+2019-07-30 18:01:16,784 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 18:01:16,784 - __main__ - INFO - add job20-tf-birnn,submitted on 262
+2019-07-30 18:01:16,784 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 18:01:38,804 - __main__ - INFO - delete all previous yamls
+2019-07-30 18:01:38,806 - __main__ - INFO - create a new scheduler
+2019-07-30 18:01:38,807 - __main__ - INFO - create a tf-birnn yaml named job1.yaml
+2019-07-30 18:01:38,807 - __main__ - INFO - add job1-tf-birnn,submitted on 122
+2019-07-30 18:01:38,807 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 18:01:38,807 - __main__ - INFO - add job2-tf-drnn,submitted on 61
+2019-07-30 18:01:38,807 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 18:01:38,808 - __main__ - INFO - add job3-tf-birnn,submitted on 186
+2019-07-30 18:01:38,808 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-07-30 18:01:38,808 - __main__ - INFO - add job4-tf-cnn,submitted on 516
+2019-07-30 18:01:38,808 - __main__ - INFO - create a tf-drnn yaml named job5.yaml
+2019-07-30 18:01:38,808 - __main__ - INFO - add job5-tf-drnn,submitted on 367
+2019-07-30 18:01:38,808 - __main__ - INFO - create a tf-cnn yaml named job6.yaml
+2019-07-30 18:01:38,810 - __main__ - INFO - add job6-tf-cnn,submitted on 375
+2019-07-30 18:01:38,810 - __main__ - INFO - create a torch-lenet yaml named job7.yaml
+2019-07-30 18:01:38,810 - __main__ - INFO - add job7-torch-lenet,submitted on 185
+2019-07-30 18:01:38,810 - __main__ - INFO - create a tf-birnn yaml named job8.yaml
+2019-07-30 18:01:38,810 - __main__ - INFO - add job8-tf-birnn,submitted on 524
+2019-07-30 18:01:38,811 - __main__ - INFO - create a torch-vae yaml named job9.yaml
+2019-07-30 18:01:38,811 - __main__ - INFO - add job9-torch-vae,submitted on 351
+2019-07-30 18:01:38,811 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 18:01:38,811 - __main__ - INFO - add job10-torch-lenet,submitted on 335
+2019-07-30 18:01:38,811 - __main__ - INFO - create a torch-lenet yaml named job11.yaml
+2019-07-30 18:01:38,811 - __main__ - INFO - add job11-torch-lenet,submitted on 283
+2019-07-30 18:01:38,811 - __main__ - INFO - create a tf-birnn yaml named job12.yaml
+2019-07-30 18:01:38,811 - __main__ - INFO - add job12-tf-birnn,submitted on 81
+2019-07-30 18:01:38,811 - __main__ - INFO - create a torch-lenet yaml named job13.yaml
+2019-07-30 18:01:38,812 - __main__ - INFO - add job13-torch-lenet,submitted on 508
+2019-07-30 18:01:38,812 - __main__ - INFO - create a tf-drnn yaml named job14.yaml
+2019-07-30 18:01:38,812 - __main__ - INFO - add job14-tf-drnn,submitted on 425
+2019-07-30 18:01:38,812 - __main__ - INFO - create a torch-lenet yaml named job15.yaml
+2019-07-30 18:01:38,812 - __main__ - INFO - add job15-torch-lenet,submitted on 46
+2019-07-30 18:01:38,812 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 18:01:38,812 - __main__ - INFO - add job16-torch-lenet,submitted on 594
+2019-07-30 18:01:38,812 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-07-30 18:01:38,812 - __main__ - INFO - add job17-tf-cnn,submitted on 157
+2019-07-30 18:01:38,813 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-07-30 18:01:38,813 - __main__ - INFO - add job18-torch-vae,submitted on 474
+2019-07-30 18:01:38,813 - __main__ - INFO - create a torch-vae yaml named job19.yaml
+2019-07-30 18:01:38,813 - __main__ - INFO - add job19-torch-vae,submitted on 564
+2019-07-30 18:01:38,813 - __main__ - INFO - create a torch-lenet yaml named job20.yaml
+2019-07-30 18:01:38,813 - __main__ - INFO - add job20-torch-lenet,submitted on 162
+2019-07-30 18:01:38,813 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 18:01:59,180 - __main__ - INFO - delete all previous yamls
+2019-07-30 18:01:59,180 - __main__ - INFO - create a new scheduler
+2019-07-30 18:01:59,182 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-07-30 18:01:59,182 - __main__ - INFO - add job1-tf-cnn,submitted on 565
+2019-07-30 18:01:59,183 - __main__ - INFO - create a tf-birnn yaml named job2.yaml
+2019-07-30 18:01:59,183 - __main__ - INFO - add job2-tf-birnn,submitted on 477
+2019-07-30 18:01:59,183 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 18:01:59,183 - __main__ - INFO - add job3-tf-birnn,submitted on 110
+2019-07-30 18:01:59,183 - __main__ - INFO - create a torch-lenet yaml named job4.yaml
+2019-07-30 18:01:59,183 - __main__ - INFO - add job4-torch-lenet,submitted on 421
+2019-07-30 18:01:59,184 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-30 18:01:59,184 - __main__ - INFO - add job5-tf-cnn,submitted on 447
+2019-07-30 18:01:59,184 - __main__ - INFO - create a torch-lenet yaml named job6.yaml
+2019-07-30 18:01:59,184 - __main__ - INFO - add job6-torch-lenet,submitted on 296
+2019-07-30 18:01:59,184 - __main__ - INFO - create a tf-drnn yaml named job7.yaml
+2019-07-30 18:01:59,184 - __main__ - INFO - add job7-tf-drnn,submitted on 58
+2019-07-30 18:01:59,185 - __main__ - INFO - create a tf-cnn yaml named job8.yaml
+2019-07-30 18:01:59,185 - __main__ - INFO - add job8-tf-cnn,submitted on 90
+2019-07-30 18:01:59,185 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 18:01:59,185 - __main__ - INFO - add job9-torch-lenet,submitted on 336
+2019-07-30 18:01:59,186 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-07-30 18:01:59,186 - __main__ - INFO - add job10-torch-vae,submitted on 522
+2019-07-30 18:01:59,186 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-07-30 18:01:59,186 - __main__ - INFO - add job11-tf-drnn,submitted on 195
+2019-07-30 18:01:59,186 - __main__ - INFO - create a torch-lenet yaml named job12.yaml
+2019-07-30 18:01:59,186 - __main__ - INFO - add job12-torch-lenet,submitted on 385
+2019-07-30 18:01:59,186 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-07-30 18:01:59,186 - __main__ - INFO - add job13-tf-drnn,submitted on 366
+2019-07-30 18:01:59,186 - __main__ - INFO - create a tf-birnn yaml named job14.yaml
+2019-07-30 18:01:59,186 - __main__ - INFO - add job14-tf-birnn,submitted on 558
+2019-07-30 18:01:59,186 - __main__ - INFO - create a tf-cnn yaml named job15.yaml
+2019-07-30 18:01:59,187 - __main__ - INFO - add job15-tf-cnn,submitted on 320
+2019-07-30 18:01:59,187 - __main__ - INFO - create a torch-lenet yaml named job16.yaml
+2019-07-30 18:01:59,187 - __main__ - INFO - add job16-torch-lenet,submitted on 461
+2019-07-30 18:01:59,187 - __main__ - INFO - create a torch-lenet yaml named job17.yaml
+2019-07-30 18:01:59,187 - __main__ - INFO - add job17-torch-lenet,submitted on 445
+2019-07-30 18:01:59,187 - __main__ - INFO - create a tf-cnn yaml named job18.yaml
+2019-07-30 18:01:59,187 - __main__ - INFO - add job18-tf-cnn,submitted on 45
+2019-07-30 18:01:59,187 - __main__ - INFO - create a torch-lenet yaml named job19.yaml
+2019-07-30 18:01:59,187 - __main__ - INFO - add job19-torch-lenet,submitted on 222
+2019-07-30 18:01:59,188 - __main__ - INFO - create a tf-birnn yaml named job20.yaml
+2019-07-30 18:01:59,188 - __main__ - INFO - add job20-tf-birnn,submitted on 566
+2019-07-30 18:01:59,188 - __main__ - INFO - successful created yamls and scheduler
+2019-07-30 18:02:34,961 - __main__ - INFO - delete all previous yamls
+2019-07-30 18:02:34,962 - __main__ - INFO - create a new scheduler
+2019-07-30 18:02:34,962 - __main__ - INFO - create a torch-vae yaml named job1.yaml
+2019-07-30 18:02:34,962 - __main__ - INFO - add job1-torch-vae,submitted on 284
+2019-07-30 18:02:34,962 - __main__ - INFO - create a tf-drnn yaml named job2.yaml
+2019-07-30 18:02:34,962 - __main__ - INFO - add job2-tf-drnn,submitted on 168
+2019-07-30 18:02:34,963 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-07-30 18:02:34,963 - __main__ - INFO - add job3-tf-birnn,submitted on 274
+2019-07-30 18:02:34,963 - __main__ - INFO - create a tf-drnn yaml named job4.yaml
+2019-07-30 18:02:34,963 - __main__ - INFO - add job4-tf-drnn,submitted on 388
+2019-07-30 18:02:34,963 - __main__ - INFO - create a tf-cnn yaml named job5.yaml
+2019-07-30 18:02:34,963 - __main__ - INFO - add job5-tf-cnn,submitted on 359
+2019-07-30 18:02:34,963 - __main__ - INFO - create a tf-birnn yaml named job6.yaml
+2019-07-30 18:02:34,964 - __main__ - INFO - add job6-tf-birnn,submitted on 289
+2019-07-30 18:02:34,964 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-07-30 18:02:34,964 - __main__ - INFO - add job7-torch-vae,submitted on 445
+2019-07-30 18:02:34,964 - __main__ - INFO - create a torch-vae yaml named job8.yaml
+2019-07-30 18:02:34,964 - __main__ - INFO - add job8-torch-vae,submitted on 267
+2019-07-30 18:02:34,964 - __main__ - INFO - create a torch-lenet yaml named job9.yaml
+2019-07-30 18:02:34,964 - __main__ - INFO - add job9-torch-lenet,submitted on 73
+2019-07-30 18:02:34,966 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-07-30 18:02:34,967 - __main__ - INFO - add job10-torch-lenet,submitted on 304
+2019-07-30 18:02:34,967 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-07-30 18:02:34,967 - __main__ - INFO - add job11-tf-birnn,submitted on 484
+2019-07-30 18:02:34,967 - __main__ - INFO - create a tf-drnn yaml named job12.yaml
+2019-07-30 18:02:34,967 - __main__ - INFO - add job12-tf-drnn,submitted on 248
+2019-07-30 18:02:34,967 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-07-30 18:02:34,968 - __main__ - INFO - add job13-torch-vae,submitted on 6
+2019-07-30 18:02:34,968 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-07-30 18:02:34,968 - __main__ - INFO - add job14-tf-cnn,submitted on 497
+2019-07-30 18:02:34,968 - __main__ - INFO - create a tf-drnn yaml named job15.yaml
+2019-07-30 18:02:34,968 - __main__ - INFO - add job15-tf-drnn,submitted on 416
+2019-07-30 18:02:34,968 - __main__ - INFO - create a tf-cnn yaml named job16.yaml
+2019-07-30 18:02:34,969 - __main__ - INFO - add job16-tf-cnn,submitted on 121
+2019-07-30 18:02:34,969 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-07-30 18:02:34,969 - __main__ - INFO - add job17-tf-birnn,submitted on 284
+2019-07-30 18:02:34,970 - __main__ - INFO - create a torch-lenet yaml named job18.yaml
+2019-07-30 18:02:34,970 - __main__ - INFO - add job18-torch-lenet,submitted on 101
+2019-07-30 18:02:34,970 - __main__ - INFO - create a tf-birnn yaml named job19.yaml
+2019-07-30 18:02:34,970 - __main__ - INFO - add job19-tf-birnn,submitted on 541
+2019-07-30 18:02:34,970 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-07-30 18:02:34,970 - __main__ - INFO - add job20-tf-cnn,submitted on 543
+2019-07-30 18:02:34,971 - __main__ - INFO - successful created yamls and scheduler
+2019-08-04 20:13:58,601 - __main__ - INFO - delete all previous yamls
+2019-08-04 20:13:58,602 - __main__ - INFO - create a new scheduler
+2019-08-04 20:13:58,602 - __main__ - INFO - create a tf-cnn yaml named job1.yaml
+2019-08-04 20:13:58,602 - __main__ - INFO - add job1-tf-cnn,submitted on 227
+2019-08-04 20:13:58,602 - __main__ - INFO - create a tf-cnn yaml named job2.yaml
+2019-08-04 20:13:58,602 - __main__ - INFO - add job2-tf-cnn,submitted on 184
+2019-08-04 20:13:58,603 - __main__ - INFO - create a tf-birnn yaml named job3.yaml
+2019-08-04 20:13:58,603 - __main__ - INFO - add job3-tf-birnn,submitted on 535
+2019-08-04 20:13:58,603 - __main__ - INFO - create a torch-vae yaml named job4.yaml
+2019-08-04 20:13:58,603 - __main__ - INFO - add job4-torch-vae,submitted on 126
+2019-08-04 20:13:58,603 - __main__ - INFO - create a torch-lenet yaml named job5.yaml
+2019-08-04 20:13:58,603 - __main__ - INFO - add job5-torch-lenet,submitted on 395
+2019-08-04 20:13:58,603 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-08-04 20:13:58,603 - __main__ - INFO - add job6-tf-drnn,submitted on 119
+2019-08-04 20:13:58,603 - __main__ - INFO - create a tf-birnn yaml named job7.yaml
+2019-08-04 20:13:58,603 - __main__ - INFO - add job7-tf-birnn,submitted on 474
+2019-08-04 20:13:58,604 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-08-04 20:13:58,604 - __main__ - INFO - add job8-torch-lenet,submitted on 302
+2019-08-04 20:13:58,604 - __main__ - INFO - create a tf-drnn yaml named job9.yaml
+2019-08-04 20:13:58,604 - __main__ - INFO - add job9-tf-drnn,submitted on 420
+2019-08-04 20:13:58,604 - __main__ - INFO - create a torch-lenet yaml named job10.yaml
+2019-08-04 20:13:58,604 - __main__ - INFO - add job10-torch-lenet,submitted on 594
+2019-08-04 20:13:58,604 - __main__ - INFO - create a tf-birnn yaml named job11.yaml
+2019-08-04 20:13:58,604 - __main__ - INFO - add job11-tf-birnn,submitted on 83
+2019-08-04 20:13:58,604 - __main__ - INFO - create a tf-cnn yaml named job12.yaml
+2019-08-04 20:13:58,604 - __main__ - INFO - add job12-tf-cnn,submitted on 437
+2019-08-04 20:13:58,604 - __main__ - INFO - create a torch-vae yaml named job13.yaml
+2019-08-04 20:13:58,604 - __main__ - INFO - add job13-torch-vae,submitted on 206
+2019-08-04 20:13:58,606 - __main__ - INFO - create a tf-cnn yaml named job14.yaml
+2019-08-04 20:13:58,606 - __main__ - INFO - add job14-tf-cnn,submitted on 285
+2019-08-04 20:13:58,606 - __main__ - INFO - create a torch-lenet yaml named job15.yaml
+2019-08-04 20:13:58,606 - __main__ - INFO - add job15-torch-lenet,submitted on 69
+2019-08-04 20:13:58,606 - __main__ - INFO - create a tf-birnn yaml named job16.yaml
+2019-08-04 20:13:58,607 - __main__ - INFO - add job16-tf-birnn,submitted on 24
+2019-08-04 20:13:58,607 - __main__ - INFO - create a tf-birnn yaml named job17.yaml
+2019-08-04 20:13:58,607 - __main__ - INFO - add job17-tf-birnn,submitted on 492
+2019-08-04 20:13:58,607 - __main__ - INFO - create a torch-lenet yaml named job18.yaml
+2019-08-04 20:13:58,607 - __main__ - INFO - add job18-torch-lenet,submitted on 53
+2019-08-04 20:13:58,607 - __main__ - INFO - create a tf-drnn yaml named job19.yaml
+2019-08-04 20:13:58,607 - __main__ - INFO - add job19-tf-drnn,submitted on 362
+2019-08-04 20:13:58,607 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-08-04 20:13:58,607 - __main__ - INFO - add job20-tf-cnn,submitted on 432
+2019-08-04 20:13:58,608 - __main__ - INFO - create a tf-drnn yaml named job21.yaml
+2019-08-04 20:13:58,608 - __main__ - INFO - add job21-tf-drnn,submitted on 235
+2019-08-04 20:13:58,608 - __main__ - INFO - create a torch-vae yaml named job22.yaml
+2019-08-04 20:13:58,608 - __main__ - INFO - add job22-torch-vae,submitted on 119
+2019-08-04 20:13:58,608 - __main__ - INFO - create a torch-vae yaml named job23.yaml
+2019-08-04 20:13:58,608 - __main__ - INFO - add job23-torch-vae,submitted on 188
+2019-08-04 20:13:58,608 - __main__ - INFO - create a tf-cnn yaml named job24.yaml
+2019-08-04 20:13:58,609 - __main__ - INFO - add job24-tf-cnn,submitted on 403
+2019-08-04 20:13:58,610 - __main__ - INFO - create a tf-birnn yaml named job25.yaml
+2019-08-04 20:13:58,610 - __main__ - INFO - add job25-tf-birnn,submitted on 419
+2019-08-04 20:13:58,610 - __main__ - INFO - create a tf-birnn yaml named job26.yaml
+2019-08-04 20:13:58,610 - __main__ - INFO - add job26-tf-birnn,submitted on 170
+2019-08-04 20:13:58,610 - __main__ - INFO - create a tf-birnn yaml named job27.yaml
+2019-08-04 20:13:58,610 - __main__ - INFO - add job27-tf-birnn,submitted on 177
+2019-08-04 20:13:58,610 - __main__ - INFO - create a tf-birnn yaml named job28.yaml
+2019-08-04 20:13:58,611 - __main__ - INFO - add job28-tf-birnn,submitted on 242
+2019-08-04 20:13:58,611 - __main__ - INFO - create a tf-cnn yaml named job29.yaml
+2019-08-04 20:13:58,611 - __main__ - INFO - add job29-tf-cnn,submitted on 205
+2019-08-04 20:13:58,611 - __main__ - INFO - create a tf-cnn yaml named job30.yaml
+2019-08-04 20:13:58,611 - __main__ - INFO - add job30-tf-cnn,submitted on 435
+2019-08-04 20:13:58,611 - __main__ - INFO - successful created yamls and scheduler
+2019-08-04 21:44:47,707 - __main__ - INFO - delete all previous yamls
+2019-08-04 21:44:47,707 - __main__ - INFO - create a new scheduler
+2019-08-04 21:44:47,708 - __main__ - INFO - create a tf-drnn yaml named job1.yaml
+2019-08-04 21:44:47,708 - __main__ - INFO - add job1-tf-drnn,submitted on 497
+2019-08-04 21:44:47,708 - __main__ - INFO - create a torch-vae yaml named job2.yaml
+2019-08-04 21:44:47,708 - __main__ - INFO - add job2-torch-vae,submitted on 86
+2019-08-04 21:44:47,708 - __main__ - INFO - create a torch-vae yaml named job3.yaml
+2019-08-04 21:44:47,708 - __main__ - INFO - add job3-torch-vae,submitted on 156
+2019-08-04 21:44:47,708 - __main__ - INFO - create a tf-cnn yaml named job4.yaml
+2019-08-04 21:44:47,708 - __main__ - INFO - add job4-tf-cnn,submitted on 41
+2019-08-04 21:44:47,708 - __main__ - INFO - create a torch-vae yaml named job5.yaml
+2019-08-04 21:44:47,708 - __main__ - INFO - add job5-torch-vae,submitted on 331
+2019-08-04 21:44:47,708 - __main__ - INFO - create a tf-drnn yaml named job6.yaml
+2019-08-04 21:44:47,710 - __main__ - INFO - add job6-tf-drnn,submitted on 191
+2019-08-04 21:44:47,710 - __main__ - INFO - create a torch-vae yaml named job7.yaml
+2019-08-04 21:44:47,710 - __main__ - INFO - add job7-torch-vae,submitted on 141
+2019-08-04 21:44:47,710 - __main__ - INFO - create a torch-lenet yaml named job8.yaml
+2019-08-04 21:44:47,710 - __main__ - INFO - add job8-torch-lenet,submitted on 397
+2019-08-04 21:44:47,711 - __main__ - INFO - create a torch-vae yaml named job9.yaml
+2019-08-04 21:44:47,711 - __main__ - INFO - add job9-torch-vae,submitted on 396
+2019-08-04 21:44:47,711 - __main__ - INFO - create a torch-vae yaml named job10.yaml
+2019-08-04 21:44:47,711 - __main__ - INFO - add job10-torch-vae,submitted on 95
+2019-08-04 21:44:47,711 - __main__ - INFO - create a tf-drnn yaml named job11.yaml
+2019-08-04 21:44:47,711 - __main__ - INFO - add job11-tf-drnn,submitted on 523
+2019-08-04 21:44:47,711 - __main__ - INFO - create a tf-cnn yaml named job12.yaml
+2019-08-04 21:44:47,712 - __main__ - INFO - add job12-tf-cnn,submitted on 455
+2019-08-04 21:44:47,712 - __main__ - INFO - create a tf-drnn yaml named job13.yaml
+2019-08-04 21:44:47,712 - __main__ - INFO - add job13-tf-drnn,submitted on 154
+2019-08-04 21:44:47,712 - __main__ - INFO - create a torch-lenet yaml named job14.yaml
+2019-08-04 21:44:47,712 - __main__ - INFO - add job14-torch-lenet,submitted on 433
+2019-08-04 21:44:47,712 - __main__ - INFO - create a torch-vae yaml named job15.yaml
+2019-08-04 21:44:47,712 - __main__ - INFO - add job15-torch-vae,submitted on 229
+2019-08-04 21:44:47,716 - __main__ - INFO - create a tf-drnn yaml named job16.yaml
+2019-08-04 21:44:47,716 - __main__ - INFO - add job16-tf-drnn,submitted on 341
+2019-08-04 21:44:47,716 - __main__ - INFO - create a tf-cnn yaml named job17.yaml
+2019-08-04 21:44:47,716 - __main__ - INFO - add job17-tf-cnn,submitted on 2
+2019-08-04 21:44:47,716 - __main__ - INFO - create a torch-vae yaml named job18.yaml
+2019-08-04 21:44:47,716 - __main__ - INFO - add job18-torch-vae,submitted on 581
+2019-08-04 21:44:47,717 - __main__ - INFO - create a torch-lenet yaml named job19.yaml
+2019-08-04 21:44:47,717 - __main__ - INFO - add job19-torch-lenet,submitted on 55
+2019-08-04 21:44:47,717 - __main__ - INFO - create a tf-cnn yaml named job20.yaml
+2019-08-04 21:44:47,717 - __main__ - INFO - add job20-tf-cnn,submitted on 148
+2019-08-04 21:44:47,717 - __main__ - INFO - create a tf-cnn yaml named job21.yaml
+2019-08-04 21:44:47,717 - __main__ - INFO - add job21-tf-cnn,submitted on 287
+2019-08-04 21:44:47,718 - __main__ - INFO - create a torch-lenet yaml named job22.yaml
+2019-08-04 21:44:47,718 - __main__ - INFO - add job22-torch-lenet,submitted on 463
+2019-08-04 21:44:47,718 - __main__ - INFO - create a torch-lenet yaml named job23.yaml
+2019-08-04 21:44:47,718 - __main__ - INFO - add job23-torch-lenet,submitted on 427
+2019-08-04 21:44:47,718 - __main__ - INFO - create a tf-cnn yaml named job24.yaml
+2019-08-04 21:44:47,718 - __main__ - INFO - add job24-tf-cnn,submitted on 542
+2019-08-04 21:44:47,718 - __main__ - INFO - create a tf-drnn yaml named job25.yaml
+2019-08-04 21:44:47,718 - __main__ - INFO - add job25-tf-drnn,submitted on 391
+2019-08-04 21:44:47,719 - __main__ - INFO - create a torch-vae yaml named job26.yaml
+2019-08-04 21:44:47,719 - __main__ - INFO - add job26-torch-vae,submitted on 263
+2019-08-04 21:44:47,719 - __main__ - INFO - create a torch-lenet yaml named job27.yaml
+2019-08-04 21:44:47,719 - __main__ - INFO - add job27-torch-lenet,submitted on 434
+2019-08-04 21:44:47,719 - __main__ - INFO - create a tf-drnn yaml named job28.yaml
+2019-08-04 21:44:47,719 - __main__ - INFO - add job28-tf-drnn,submitted on 486
+2019-08-04 21:44:47,719 - __main__ - INFO - create a tf-drnn yaml named job29.yaml
+2019-08-04 21:44:47,725 - __main__ - INFO - add job29-tf-drnn,submitted on 26
+2019-08-04 21:44:47,725 - __main__ - INFO - create a torch-vae yaml named job30.yaml
+2019-08-04 21:44:47,725 - __main__ - INFO - add job30-torch-vae,submitted on 468
+2019-08-04 21:44:47,726 - __main__ - INFO - successful created yamls and scheduler

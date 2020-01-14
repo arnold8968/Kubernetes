@@ -1,0 +1,19 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: job1-tf-drnn
+spec:
+  restartPolicy: Never
+  schedulerName: my-scheduler
+  volumes:
+  - name: task-pv-storage
+    persistentVolumeClaim:
+      claimName: pvc1-nfs
+  containers:
+    - name: d-rnn
+      image: zsl3203/drnn_log
+      command: ["python"]
+      args: ["d_rnn_log.py","10000","/root/drnn/job1-tf-drnn.csv","job1-tf-drnn"]
+      volumeMounts:
+      - mountPath: "/root/drnn"
+        name: task-pv-storage

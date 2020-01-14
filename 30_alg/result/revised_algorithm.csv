@@ -1,0 +1,16 @@
+,node,job,start_time,end_time,complete_time
+2,worker-2,job7-torch-lenet,32,1007.330224,975.330224
+5,worker-1,job12-torch-lenet,60,378.367378,318.367378
+10,master,job6-tf-cnn,72,378.3674622,306.3674622
+11,worker-3,job10-torch-lenet,86,886.7773111,800.7773111
+1,worker-2,job4-torch-vae,89,546.671221,457.671221
+7,master,job11-tf-drnn,107,811.5489511,704.5489511
+13,worker-3,job3-torch-vae,134,611.480257,477.480257
+14,worker-3,job8-tf-birnn,143,1116.315236,973.3152361
+12,worker-3,job2-tf-drnn,144,898.9483402,754.9483402
+4,worker-1,job1-tf-drnn,161,806.170748,645.170748
+8,master,job13-tf-cnn,194,378.367398,184.367398
+9,master,job5-torch-vae,200,682.403491,482.403491
+6,worker-1,job15-torch-vae,265,689.0792172,424.0792172
+0,worker-2,job14-torch-vae,292,869.7530241,577.7530241
+3,worker-2,job9-tf-birnn,296,1322.464362,1026.464362

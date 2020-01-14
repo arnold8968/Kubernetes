@@ -1,0 +1,19 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: Needtoplaced
+spec:
+  restartPolicy: Never
+  schedulerName: scheduler-need-to-be-replaced
+  volumes:
+  - name: task-pv-storage
+    persistentVolumeClaim:
+      claimName: pvc1-nfs
+  containers:
+    - name: bi-rnn
+      image: zsl3203/birnn_log
+      command: ["python"]
+      args: ["bi_rnn_log.py","10000","/root/birnn/Needtoplaced.csv","Needtoplaced"]
+      volumeMounts:
+      - mountPath: "/root/birnn/"
+        name: task-pv-storage

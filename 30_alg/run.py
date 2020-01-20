@@ -164,6 +164,7 @@ if __name__ == "__main__":
     pod_time_dict = get_pod_time_dic()
     print("node,job,start_time,init_time")
     pod_node_pair = get_pod_node_pair()
+    df = pd.DataFrame(columns=('node_name','pod','pod_time_dict[pod]','init_time'))
     for pod in pod_node_pair:
         node_name = pod_node_pair[pod]
         node_name = node_name.replace(".", " ")

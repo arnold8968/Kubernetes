@@ -69,7 +69,7 @@ def main(job_num,time,scheduler):
         name_list.append(name)
 #        add_scheduler(name,job,time)
     logger.info("create a new scheduler")
-    second = list(np.random.randint(time, size = job_num))
+    second = list(np.random.choice(time, job_num, replace = False))
     second.sort()
     output = {'yaml':job_list,'seconds':second,'name':name_list}
     df = pd.DataFrame(output)

@@ -171,6 +171,6 @@ if __name__ == "__main__":
         match = re.match(r"(.*) (.*) (.*) (.*) (.*) (.*)", node_name)
         node_name = match.group(1)
         print("{},{},{},{}".format(node_name, pod, str(pod_time_dict[pod]),str(init_time)))
-        data_value = {'node_name':node_name,'pod':pod,'pod_time_dict[pod]':str(pod_time_dict[pod]),'init_time':str(init_time)}
+        data_value = {'node_name':node_name,'job':pod,'start_time':str(pod_time_dict[pod]),'init_time':str(init_time)}
         df.loc[i] = data_value
     df.to_csv("Run_output.csv")

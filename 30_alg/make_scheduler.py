@@ -65,11 +65,11 @@ def main(job_num,time,scheduler):
         name = select_one(pool) # name: 
         create_yaml(name,job,scheduler)
         logger.info("create a "+name+" yaml named "+job+".yaml")
-        job_list.append(job)
-        name_list.append(name)
+        job_list.append(job + ".yaml")
+        name_list.append(job + "-" + name)
 #        add_scheduler(name,job,time)
     logger.info("create a new scheduler")
-    second = list(np.random.choice(time, job_num, replace = False))
+    second = list(np.random.randint(time, size = job_num))
     second.sort()
     output = {'yaml':job_list,'seconds':second,'name':name_list}
     df = pd.DataFrame(output)

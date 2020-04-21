@@ -97,6 +97,8 @@ def init_job_time(scheduler):
     jobs = pd.read_csv(scheduler)
     job_time = [i for i in jobs["seconds"]]
     job_name = [i for i in jobs["name"]]
+    job_time = list(set(job_time))
+    job_name = list(set(job_name))
     job_time_dict = {}
     for i in range(len(job_time)):
         job_time_dict[job_name[i]] = [job_time[i]]
@@ -164,13 +166,9 @@ if __name__ == "__main__":
     pod_time_dict = get_pod_time_dic()
     print("node,job,start_time,init_time")
     pod_node_pair = get_pod_node_pair()
-    df = pd.DataFrame(columns=('node_name','pod','pod_time_dict[pod]','init_time'))
-    for i, pod in enumerate(pod_node_pair):
+    for pod in pod_node_pair:
         node_name = pod_node_pair[pod]
         node_name = node_name.replace(".", " ")
         match = re.match(r"(.*) (.*) (.*) (.*) (.*) (.*)", node_name)
         node_name = match.group(1)
         print("{},{},{},{}".format(node_name, pod, str(pod_time_dict[pod]),str(init_time)))
-        data_value = {'node_name':node_name,'job':pod,'start_time':str(pod_time_dict[pod]),'init_time':str(init_time)}
-        df.loc[i] = data_value
-    df.to_csv("Run_output.csv")
